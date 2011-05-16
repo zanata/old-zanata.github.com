@@ -31,4 +31,4 @@ nav ul li ul{ margin:3px 5px;}
 article{ line-height:25px; padding:10px;}
 
 
-footer{ width:100%;background: -webkit-gradient(linear, left top, left bottom, from(#f3f3f3), to(#fff));background: -moz-linear-gradient(top,  #f3f3f3,  #fff); min-height:70px; line-height:30px; text-align:center; padding-top:20px; border-top:dotted 1px #ddd}
+footer{ width:100%;min-height:70px; line-height:30px; text-align:center; padding-top:20px; border-top:dotted 1px #ddd}
