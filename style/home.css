@@ -3,20 +3,20 @@
 *{ margin:0px; padding:0px; }
 article, aside, details, figcaption, figure, footer,header, hgroup, menu, nav, section { display: block; }
 body{ width:100%; background:url(header_bg.png) repeat-x left top;font-size:12px; font-family:Helvetica,"Times New Roman", Times, serif}
-.container{ width:1100px; margin:0 auto;position:relative}
+.container{ width:1016px; margin:0 auto;position:relative}
 
 .clear{ clear:both;}
 a:link,a:visited{ color:#12628f; text-decoration:none;}
 a:hover{ color:#F30;}
 
 header{ width:100%; height:102px;}
-.logo{ background:url(logo.png) no-repeat left top; width:250px; height:100px; margin-left:20px}
+.logo{ margin-left:5px}
 menu{ height:36px; border:1px #cfcfcf solid;background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));background: -moz-linear-gradient(top,  #fff,  #eee);-moz-border-radius:5px;-webkit-border-radius:5px; float:right; padding:0 20px; line-height:38px; position:absolute; right:0px; top:30px;}
 menu ul li{ list-style-type:none; padding:0 10px; display:inline; color:#999}
 menu ul li a:link,.menu ul li a:visited{color:#09658b; text-decoration:none;}
 menu ul li a:hover{ color:#F30; text-decoration:underline}
 
-nav{ float:left;background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f3f3f3));background: -moz-linear-gradient(right,  #f3f3f3,  #fff); width:250px; text-align:right; border-right:dotted 1px #ddd; min-height:400px}
+nav{ float:left;background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#f3f3f3));background: -moz-linear-gradient(right,  #f3f3f3,  #fff); width:180px; text-align:right; border-right:dotted 1px #ddd; min-height:400px}
 nav ul{ margin:20px 10px 30px 0;}
 nav ul li{ list-style-type:none; margin:5px 0;}
 nav ul li.title{ margin:10px 0; font-weight:bold;}
