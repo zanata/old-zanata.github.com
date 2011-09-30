@@ -1,10 +1,239 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta charset='utf-8' />
-<title>Zanata</title>
-<link href="style/home.css" rel="stylesheet">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Welcome To Zanata - the Open Source Document Translation Project</title>
+<link rel="stylesheet" type="text/css" href="css/meyer-reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/zanata.css"/>
+<link rel="stylesheet" type="text/css" href="css/slider-style.css"/>
+<link rel="Shortcut Icon" type="image/ico" href="favicon.ico" />
 
+<!-- Slider -->
+<script language="javascript" type="text/javascript" src="js/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="js/jquery.easing.js"></script>
+<script language="javascript" type="text/javascript" src="js/script.js"></script>
+
+<script type="text/javascript">
+ $(document).ready( function(){	
+		$('#lofslidecontent45').lofJSidernews( { interval:30000,
+											 	easing:'easeInOutQuad',
+												duration:1200,
+												auto:false } );						
+	});
+</script>
+
+<style type="text/css">ul.lof-main-wapper li {position:relative;}</style>
+</head>
+
+<body>
+<div id="page-wrap">
+	<div id="content">
+	
+	<div id="header">
+		<a id="logo" href="index.html"><img src="images/zanata.png" title="Zanata Logo" alt="Zanata Logo" /></a>
+        
+		<div id="header-sign-in">
+	        <a id="sign-in" href="https://translate.zanata.org/zanata/account/sign_form">Sign In</a>
+			<a href="https://admin.fedoraproject.org/accounts/user/new">Register</a>
+		</div><!-- End Header-sign-in -->
+        
+        <ul id="nav">
+            <li><a class="here" href="index.html">Home</a></li>
+            <li><a href="documentation.html">Documentation</a></li>
+            <li><a href="community.html">Project Information</a></li>
+            <li><a href="externalLinks.html">External Links</a></li>
+        </ul><!-- End Nav -->
+        
+        <div id="social">
+			<a id="twitter" href="http://www.twitter.com/#!/zanatatm"><img src="images/twitter32x32.png" alt="Twitter Icon"  /></a>
+			<a id="wp" href="http://www.zanatatm.wordpress.com"><img src="images/wp32x32.png" alt="Wordpress Icon"  /></a>
+		</div>
+                
+    </div><!-- End Header -->
+    <div id="js-alert"><h1>Your JavaScript is turned off at the moment, It's recommended you turn it on</h1></div><!-- End JS-Alert -->
+<!-- ----------------------- Call-out Section ----------------------- -->
+		<div id="lofslidecontent45" class="lof-slidecontent">
+<div class="preload"><div></div></div>
+ <!-- MAIN CONTENT --> 
+  <div class="lof-main-outer">
+  	<ul class="lof-main-wapper">
+  		<li>
+			<h1>&quot;Zanata is convenient and easy to use. I invite you to try!&quot;</h1>          
+			<div class="lof-main-item-desc">
+                <h3><a target="_parent" title="Technical Writing" href="#translator-content">Learn more about translation</a></h3>
+                <!-- <p> Option for sub-header here -->
+			</div>
+		</li> 
+		<li>
+        	<h1>&quot;I like the translation memory feature. It saves my time and helps ensure consistency.&quot;</h1>
+            <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="Translation" href="#writer-content">Learn more about writing </a></h3>
+			</div>
+		</li> 
+		<li>
+        	<h1>&quot;I love how easy, yet powerful this translation tool is - all the features without the hassle&quot;</h1>
+			<div class="lof-main-item-desc">
+				<h3><a target="_parent" title="Software Developer" href="#software-dev-content">Learn more about software development</a></h3>
+             </div>
+        </li> 
+        <li>
+			<h1>&quot;Simple, user-friendly translation too with great productivity&quot;</h1>
+        	<img src="" alt="" />
+            <div class="lof-main-item-desc">
+                <h3><a target="_parent" title="Zanata Community" href="#faq-section">Join the Zanata community</a></h3><br />
+			</div>
+		</li> 
+	</ul>  	
+  </div>
+  <!-- END MAIN CONTENT --> 
+    <!-- NAVIGATOR -->
+
+  <div class="lof-navigator-outer">
+  		<ul class="lof-navigator">
+            <li>
+            	<div>
+                	<img src="images/people/thumbs/sam-thumb.jpg" alt="Photo of Sam" />
+                	<h3>Sam</h3>
+                  	<p>Our top translator</p>
+                </div>    
+            </li>
+             <li>
+             	<div>
+                	<img src="images/people/thumbs/glaucia-thumb.jpg" alt="Photo of Glaucia" />
+                 	<h3>Glaucia</h3>
+                  	<p>Works with Zanata everyday</p>
+                </div>    
+            </li>
+
+            <li>
+            	<div>
+                    <img src="images/people/thumbs/yuko-thumb.jpg" alt="Photo of Yuko" />
+                    <h3>Yuko</h3>
+                	<p>A key part of the translations team</p>
+                </div>     
+            </li>
+            
+           <li>
+           		<div>
+                    <img src="images/people/thumbs/josh-thumb.jpg" alt="Photo of Josh" />
+                    <h3>Josh</h3>
+                    <p>Loves writing documentation</p>
+                </div>
+            </li>    
+        </ul>
+  </div>
+ </div> 
+<script type="text/javascript">
+
+</script>
+
+    
+	<div id="main-content" class="section-content">
+    
+    <div id="zanata-desc">
+		<h2 class="section-header">Zanata is for everyone</h2>
+        <p>Zanata is written in Java and uses modern web technologies like JBoss, Seam, GWT, Hibernate, and a REST API. It currently suports translation of DocBook/Publican documentation through PO files. Projects can be uploaded to and downloaded from a Zanata server using a Maven plugin or a Python client.</p><br />
+        <p>The first release has been deployed at <a href="https://translate.zanata.org/">translate.zanata.org</a> and is ready to accept documentation from <a href="http://jboss.org/">jboss.org</a> projects for translation.</p><br />
+        <p>Zanata is free software, licensed under the <a href="http://www.gnu.org/licenses/lgpl-2.1.html">LGPL</a>.</p><br />
+	<p class="backToTop"><a href="#">Back to top</a></p>
+    </div><!-- End zanata-desc-content -->
+	
+    <div id="translator-content">
+		<h2 class="section-header">Translators</h2>
+        <ul>
+        	<li>All you need is a web browser</li>
+            <li>Translate from any computer with an Internet connection</li>
+            <li>No command line</li>
+            <li>No source conflicts</li>
+            <li>Translation memory shows history of similar translations to re-use</li>
+            <li>See updates from other translators in seconds</li>
+        </ul>
+        <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a></p>
+        <p class="backToTop"><a href="#">Back to top</a></p>
+	</div><!-- End translator-content -->
+    
+    <div id="writer-content">
+		<h2 class="section-header">Writers</h2>
+        <ul>
+        	<li>Localise your documentation</li>
+            <li>Enable communities to translate your files</li>
+            <li>Accept translations without opening your source repository</li>
+            <li>Currently supported: Publican Docbook</li>
+        </ul>
+        <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a></p>
+        <p class="backToTop"><a href="#">Back to top</a></p>
+	</div><!-- End writer-content -->
+    
+    <div id="software-dev-content">
+    
+		<h2 class="section-header">Software Developers</h2>
+        
+        <ul>
+        	<li>Localise your software interface and messages</li>
+            <li>Enable communities to translate your files</li>
+            <li>Accept translations without opening your source repository</li>
+            <li>Currently supported: GNU Gettext-based PO files</li>
+            <li>Coming in Zanata 1.4: Java Properties files</li>
+		</ul>
+        
+        <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a></p>
+        
+        <p class="clearBoth backToTop"><a href="#">Back to top</a></p>
+	</div><!-- End Software-developer-content -->
+    
+    <div id="faq-section">
+        <h2 class="section-header">FAQ - Frequently Asked Questions</h2>
+        <h3>Q: How do I start to translate?</h3>
+		<div>
+          <p>You need a Fedora/JBoss/other account (please follow instructions <a href="https://admin.fedoraproject.org/accounts/user/new">here</a>). Once you have joined your language team and you're approved as a translator, go to the &quot;Projects&quot; tab to choose the project you would like to translate. Click on &quot;translate&quot; and away you go!</p>
+        </div>
+        
+        <h3>Q: Do I need to commit my translation when I'm done?</h3>
+		<div>
+          <p>No! Every time you translate an entry your changes will be saved automatically when you're done editing. No need to commit anything.</p>
+        </div>
+        
+        <h3>Q: Does my translation need to get reviewed or approved?</h3>
+		<div>
+          <p>No, there is no formal review process. When you finish a translation it is already considered approved. If you are unsure about your translation maybe get another member of your language team to double-check your work.</p>
+        </div>
+        
+        <h3>Q: Can I download .po-files to translate offline?</h3>
+		<div>
+          <p>Not at this point in time. To make full use of Zanatas features, like the translation memory and the simultaneous editing, the translation should ideally be done online via the Zanata tool.</p>
+        </div>
+        
+        <h3>Q: How do I lock the file that I'm currently working on?</h3>
+		<div>
+          <p>There is no need to! Several translators can work on the same file concurrently without interfering with each other. You will even see the changes other translators make almost in real-time on your screen.</p>
+        </div>
+        
+        <h3>Q: What do the different colors and fonts of the strings mean?</h3>
+		<div>
+          <p><span id="red-text">Red</span> - empty translation field : Untranslated.<br /><span id="yellow-text">Yellow</span> - some text in italics in translation field : The translation is considered &quot;fuzzy&quot;, it needs review.<br /><span id="green-text">Green</span> - text in translation field : Translated.</p>
+        </div>
+        
+        <br />
+	<p class="backToTop"><a href="#">Back to top</a></p>
+    </div><!-- End FAQ-content -->
+    
+    <div id="bugs-section">
+		<h2 class="section-header">Found a bug? Report it!</h2>
+        <a href="https://bugzilla.redhat.com/buglist.cgi?product=Zanata">Bug reporting</a><br />
+	<p class="backToTop"><a href="#">Back to top</a></p>
+    </div><!-- End FAQ-content -->
+    
+</div>
+</div><!-- End Main-content -->
+</div><!-- End Page-wrap -->
+
+<div id="footer" class="centre">
+	<p>Copyright 2008-11 Red Hat, Inc and others.</p>
+    <div id="sponsor">
+    	<a href="http://www.redhat.com/"><img src="images/RH-logo-ccc.jpg" alt="Red Hat Logo" /></a>
+    	<a href="https://zanata.ci.cloudbees.com/"><img src="images/BuiltOnDEV.png" alt="Built and Tested on CloudBees DEV@cloud" /></a>
+    </div><!-- End Sponsor -->
+</div><!-- End Footer -->
 <script type="text/javascript" async="" src="./Zanata_files/ga.js"></script>
 <script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -22,113 +251,5 @@
 		s.parentNode.insertBefore(ga, s);
 	})();
 </script>
-
-</head>
-
-<body>
-	<div class="container">
-		<header>
-			<a href="."><img class="logo" src="images/zanata.png"
-				alt="Zanata" /> </a>
-			<menu>
-				<ul>
-					<li><a href=".">Home</a>
-					</li>
-					<li>|</li>
-					<li><a
-						href="https://bugzilla.redhat.com/buglist.cgi?product=Zanata&bug_status=__open__">Issues</a>
-					</li>
-					<li>|</li>
-					<li><a href="https://github.com/zanata/zanata">Source</a>
-					</li>
-				</ul>
-			</menu>
-
-
-			<div class="menuDiv">
-                <ul>
-                    <li><a href=".">Home</a>
-                    </li>
-                    <li><a href="documentation.html">Documentation</a>
-                    </li>
-                    <li><a href="community.html">Community</a>
-                    </li>
-                    <li><a href="externalLinks.html">External Links</a>
-                    </li>
-                </ul>
-            </div>
-
-		</header>
-		
-		<div class="content">
-			<article id="home">
-				<div class="header">
-					<span class="firstCapital">Z</span>anata is a web-based system for
-					translators to translate documentation and software online using
-					a web browser
-				</div>
-				<p>Zanata is written in Java and uses modern web technologies
-					like JBoss, Seam, GWT, Hibernate, and a REST API. It currently
-					supports translation of DocBook/Publican documentation through PO
-					files. Projects can be uploaded to and downloaded from a Zanata
-					server using a Maven plugin or a Python client.</p>
-
-				<p>
-					For <strong>developers and writers</strong>: By using Zanata for
-					your document translations, you can open up your project for
-					translations without opening your entire project in version
-					control.
-				</p>
-
-				<p>
-					For <strong>translators</strong>: No need to deal with PO files,
-					gettext or a version control system - just log in to the website,
-					join a language team and start translating, with translation memory
-					(history of similar translations) and the ability to see updates
-					from other translators in seconds.
-				</p>
-
-				<p>
-					The first release has been deployed at <a
-						href="https://translate.jboss.org/">translate.jboss.org</a> and is
-					ready to accept documentation from <a href="http://jboss.org/">jboss.org</a>
-					projects for translation.
-				</p>
-
-				<p>
-					Zanata is free software, licensed under the <a
-						href="http://www.gnu.org/licenses/lgpl-2.1.html">LGPL</a>.
-				</p>
-				<br />
-				
-				    <div class="header">
-					   <a href="community.html"><span class="firstCapital">>></span> GET INVOLVED NOW</a>
-				    </div>
-				
-				
-			</article>
-
-		</div>
-
-	</div>
-
-	<div class="footer">
-		<a href="http://www.redhat.com/"><img src="images/RHrgb288.png"
-			alt="Red Hat" /> </a>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="https://zanata.ci.cloudbees.com/"><img
-			src="images/BuiltOnDEV.png"
-			alt="Built and Tested on CloudBees DEV@cloud" /> </a>
-		<p>© 2011 Red Hat, Inc. All rights reserved.</p>
-	</div>
-
-
-
-	<!--
-<script>
-toggleVersions();
-</script>
--->
-
 </body>
 </html>

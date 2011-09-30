@@ -1,10 +1,62 @@
-<!DOCTYPE html>
-<html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta charset='utf-8' />
-<title>Zanata</title>
-<link href="style/home.css" rel="stylesheet">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Welcome To Zanata - the Open Source Document Translation Project</title>
+<link rel="stylesheet" type="text/css" href="css/meyer-reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/zanata.css"/>
+<link rel="shortcut icon" href="favicon.ico" />
+</head>
 
+<body>
+<div id="page-wrap">
+	<div id="content">
+
+	<div id="header">
+		<a id="logo" href="index.html"><img src="images/zanata.png" title="Zanata Logo" alt="Zanata Logo" /></a>
+        
+		<div id="header-sign-in">
+	        <a id="sign-in" href="https://translate.zanata.org/zanata/account/sign_form">Sign In</a>
+			<a href="https://admin.fedoraproject.org/accounts/user/new">Register</a>
+		</div><!-- End Header-sign-in -->
+        
+        <ul id="nav">
+            <li ><a href="index.html"></span>Home</a></li>
+            <li ><a href="documentation.html">Documentation</a></li>
+            <li><a href="community.html">Project Information</a></li>
+            <li><a class="here" href="externalLinks.html">External Links</a></li>
+        </ul><!-- End Nav -->
+        
+        <div id="social">
+    		<a id="twitter" href="http://www.twitter.com/#!/zanatatm"><img src="images/twitter32x32.png" alt="Twitter Icon"  /></a>
+        	<a id="wp" href="http://www.zanatatm.wordpress.com"><img src="images/wp32x32.png" alt="Wordpress Icon"  /></a>
+    	</div>
+        
+    </div><!-- End Header -->
+    
+<!------------------------- Main-Content Section ------------------------->
+	<div id="main-content" class="section-content">
+    
+    <h2 class="section-header">External Links</h2>
+	
+    <ul>
+		<li><a href="https://www.ohloh.net/p/zanata/">Ohloh</a></li>
+		<li><a href="http://cia.vc/stats/project/zanata">CIA.vc (server)</a></li>
+		<li><a href="http://cia.vc/stats/project/zanata-python-client">CIA.vc (Python client)</a></li>
+	</ul>
+    
+
+	</div><!-- End Main-content -->
+</div><!-- End Content -->
+</div><!-- End Page-wrap -->
+
+<div id="footer" class="centre">
+	<p>Copyright 2008-11 Red Hat, Inc and others.</p>
+    <div id="sponsor">
+    	<a href="http://www.redhat.com/"><img src="images/RH-logo-ccc.jpg" alt="Red Hat Logo" /></a>
+    	<a href="https://zanata.ci.cloudbees.com/"><img src="images/BuiltOnDEV.png" alt="Built and Tested on CloudBees DEV@cloud" /></a>
+    </div><!-- End Sponsor -->
+</div><!-- End Footer -->
 <script type="text/javascript" async="" src="./Zanata_files/ga.js"></script>
 <script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -22,76 +74,5 @@
 		s.parentNode.insertBefore(ga, s);
 	})();
 </script>
-
-</head>
-
-<body>
-	<div class="container">
-		<header>
-			<a href="."><img class="logo" src="images/zanata.png"
-				alt="Zanata" /> </a>
-			<menu>
-				<ul>
-					<li><a href=".">Home</a>
-					</li>
-					<li>|</li>
-					<li><a
-						href="https://bugzilla.redhat.com/buglist.cgi?product=Zanata&bug_status=__open__">Issues</a>
-					</li>
-					<li>|</li>
-					<li><a href="https://github.com/zanata/zanata">Source</a>
-					</li>
-				</ul>
-			</menu>
-
-
-			<div class="menuDiv">
-                <ul>
-                    <li><a href=".">Home</a>
-                    </li>
-                    <li><a href="documentation.html">Documentation</a>
-                    </li>
-                    <li><a href="community.html">Community</a>
-                    </li>
-                    <li><a href="externalLinks.html">External Links</a>
-                    </li>
-                </ul>
-            </div>
-
-		</header>
-		
-		<div class="content">
-            <article id="externalLinks">
-                <div class="header"><span class="firstCapital">E</span>xternal Links</div>
-                
-                <ul>
-                    <li><a href="https://www.ohloh.net/p/zanata/">Ohloh</a></li>
-                    <li><a href="http://cia.vc/stats/project/zanata">CIA.vc (server)</a></li>
-                    <li><a href="http://cia.vc/stats/project/zanata-python-client">CIA.vc (Python client)</a></li>
-                </ul>
-               
-            </article>
-		</div>
-
-	</div>
-
-	<div class="footer">
-		<a href="http://www.redhat.com/"><img src="images/RHrgb288.png"
-			alt="Red Hat" /> </a>
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		<a href="https://zanata.ci.cloudbees.com/"><img
-			src="images/BuiltOnDEV.png"
-			alt="Built and Tested on CloudBees DEV@cloud" /> </a>
-		<p>© 2011 Red Hat, Inc. All rights reserved.</p>
-	</div>
-
-
-
-	<!--
-<script>
-toggleVersions();
-</script>
--->
-
 </body>
 </html>
