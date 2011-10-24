@@ -89,7 +89,7 @@ ul.lof-main-wapper{
 ul.lof-main-wapper li{
 	overflow:hidden;
 	padding:0px;
-	margin:0px;
+	margin-top:20px;
 	height:100%;
 	width:650px;
 	float:left;
@@ -97,7 +97,7 @@ ul.lof-main-wapper li{
 }
 
 ul.lof-main-wapper li h1{
-	font-size: 47px;
+	font-size: 30px;
     font-weight: normal;
     position: absolute;
     top: 20px;

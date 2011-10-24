@@ -316,33 +316,7 @@ function handler(event) {
 	})
 })(jQuery)
 
-
-/*----------------------------------------------------------------------------------------*/
-/*----------------------------------------------------------------------------------------*/
-/*----------------------------------------------------------------------------------------*/
-
-/*
- *	For the FAQ section
- */
-/*
-*/
 $(document).ready(function(){
   $('#js-alert').hide();
-  // display hand icon onMouse over H3 element in faq-section
-  $('#faq-section h3').mouseover(function(){
-	$(this).css('cursor', 'pointer');
-  });
-  // hide all the content panes when the page loads
-//  $( '#faq-section > div' ).hide();
-//  $('#faq-section > div:first').show();
-  
-  // uncomment the next line if you'd like the first pane to be visible by default
-  // $('#bio > div:first').show();
-  
-  $('#faq-section h3').click(function() {
-    $(this).next().animate( 
-	    {'height':'toggle'}, 'slow', 'swing'
-    );
-  });
 });
 
