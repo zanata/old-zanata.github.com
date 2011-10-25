@@ -67,7 +67,6 @@ p.backToTop{
 
 .section-header{
 	color: #630045;
-    padding-top: 10px;
 	margin-bottom: 10px;
 }
 
@@ -272,7 +271,7 @@ a#logo{
     float:left;
     font-size:14px;
     font-weight:bold;
-    width:200px;
+    width:150px;
     text-align:center;
     background-color:#320032;
     
