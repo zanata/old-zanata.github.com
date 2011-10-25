@@ -9,7 +9,7 @@ html {overflow-y:scroll;}
 
 body {
 	font: 80%/1.5 Arial, Tahoma, Geneva, sans-serif;
-	background-color:white;
+	background-color: #FAFAFA;
 	color:#333333;
 }
 
@@ -17,7 +17,7 @@ body {
 	width: 1000px;
 	margin: 0 auto;
 	background-color: #FFF/*#9E9941*/;
-	box-shadow:0 0 30px #ccc;
+	box-shadow:0 0 10px #320032;
 }
 
 #js-alert{background:yellow;}
