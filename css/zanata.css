@@ -138,20 +138,26 @@ a#logo{
 }
 
 .social{
-	 box-shadow: 0 0 5px #320032 inset;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -khtml-border-radius: 10px;
-    border-radius: 10px; /* future proofing */
+	 box-shadow: 0 0 10px #320032 inset;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -khtml-border-radius: 30px;
+    border-radius: 30px;
+    height:98px;
+    padding-left:20px;
+    font-size:1.5em;
+    font-weight:bold;
+    
 }
 
 /*-------Main-content styles-------*/
 
 #main-content{
 	height: 100%;
-	background: #F4F4F4;
+/* 	background: #F4F4F4; */
+	background: #E5E5E5;
 	padding-top: 20px;
-	padding-bottom: 40px;
+	padding-bottom: 20px;
 	min-height:490px;
 	border-top:1px dotted grey;
 	border-bottom:1px dotted grey;
@@ -252,7 +258,7 @@ a#logo{
 }
 
 #menu_bar ul{
-	padding-left:28px;
+	padding-left:30px;
 }
 
 #menu_bar li{
@@ -296,15 +302,21 @@ a#logo{
     padding-left:30px;
     position:absolute;
     width:900px;
-    font-size:16px;
+    font-size:14px;
     font-weight:bold;
     color:#630045;
 }
+
+#breadcrumb #dest{
+	font-size:12px;
+	font-weight:normal;
+}
+
 .tab_table {
     height:490px;
 }
 .tab_table td{
-	border: 8px solid #F4F4F4;
+	border: 8px solid #e5e5e5;
 	box-shadow: 0 0 10px #320032 inset;
 }
 
@@ -332,7 +344,8 @@ tr.tab td{
 }
 
 tr.tab span{
-	padding-left:8px;
+	padding-left:15px;
+	text-shadow: 0 0 8px grey;
 }
 
 td.button{

@@ -28,13 +28,13 @@
                 <li><a class="here" href="index.html">Home</a></li>
                 <li><a href="documentation.html">Documentation</a></li>
                 <li><a href="community.html">Community</a></li>
-                <li><a href="developers.html">Developers</a></li>
+                <li><a href="developers.html">Contribute</a></li>
                 <li><a href="faq.html">FAQ</a></li>
            </ul>
         </div>
         
         <div id="breadcrumb">
-            >> Main
+            <a href onclick="displayDiv('zanata-desc')" style="cursor:pointer"> >> Home</a><span id="dest"></span>
         </div>
     </div><!-- End Header -->
 <!-- ----------------------- Call-out Section ----------------------- -->
@@ -43,7 +43,7 @@
         
         <table class="tab_table">
             <tr class="desc">
-                <td colspan="4">
+                <td colspan="3">
                      <div id="zanata-desc" class="show">
 		                <h2 class="section-header">Zanata is for everyone</h2>
 		                <br/>
@@ -51,12 +51,14 @@
 		                <p>A public instance of Zanata is hosted at <a href="https://translate.zanata.org/zanata/">translate.zanata.org</a> and is ready to accept content from open source projects for translation.</p><br />
 		                <p>For projects hosted at <a href="http://jboss.org/">jboss.org</a>, please use the JBoss instance of Zanata at <a href="https://translate.jboss.org/">translate.jboss.org</a>.</p><br />
 		                <p>Zanata is free software, licensed under the <a href="http://www.gnu.org/licenses/lgpl-2.1.html">LGPL</a>.</p><br />
+		                  
+		                <br/>
+		                <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a> and other <a href="documentation.html">documentation</a></p>
 		            </div><!-- End zanata-desc-content -->
 		            
 		             <div id="translator-content" class="hide">
 			            <h2 class="section-header">Translators</h2>
 			            <br/>
-			            <div style="float:left">
 			            <ul>
 			                <li>All you need is a web browser</li>
 			                <li>Translate from any computer with an Internet connection</li>
@@ -66,12 +68,7 @@
 			                <li>See updates from other translators in seconds</li>
 			            </ul>
 			            <br/>
-			             <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a></p>
-			            </div>
-<!-- 			            <div style="float:left;width:390px;padding-left:10px;height:280px"> -->
-<!-- 			                 <img src="images/editor.png" alt="Photo of Glaucia"/> -->
-<!-- 			            </div> -->
-			           
+                        <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a> and other <a href="documentation.html">documentation</a></p>
 			        </div><!-- End translator-content -->
 			        
 			         <div id="writer-content" class="hide">
@@ -84,7 +81,7 @@
 			                <li>Currently supported: Publican Docbook</li>
 			            </ul>
 			            <br/>
-			            <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a></p>
+                        <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a> and other <a href="documentation.html">documentation</a></p>
 			        </div><!-- End writer-content -->
 			        
 			        <div id="software-dev-content" class="hide">
@@ -98,26 +95,23 @@
 			                <li>Coming in Zanata 1.4: Java Properties files</li>
 			            </ul>
 			            <br/>
-			            <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a> and other <a href="documentation.html">documentation</a></p>
+                        <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a> and other <a href="documentation.html">documentation</a></p>
 			        </div><!-- End Software-developer-content -->
+                    
                 </td>
             </tr>
             <tr class="tab">
-                <td onclick="displayDiv('zanata-desc')" style="padding-top:12px;">
-                     <img src="images/people/thumbs/glaucia-thumb.jpg" alt="Photo of Glaucia"/>
-                     <span>Community</span>  
-                </td>
-                <td onclick="displayDiv('translator-content')" style="padding-top:12px;">
+                <td onclick="displayDiv('translator-content');updateDest('Translators')" style="padding-top:12px;">
                      <img src="images/people/thumbs/sam-thumb.jpg" alt="Translators"/>
-                     <span>Translator</span>  
+                     <span>Translators</span>  
                 </td>
-                <td onclick="displayDiv('writer-content')" style="padding-top:12px;">
+                <td onclick="displayDiv('writer-content');updateDest('Content Writers')" style="padding-top:12px;">
                      <img src="images/people/thumbs/josh-thumb.jpg" alt="Writers" />
-                     <span>Content Writer</span>   
+                     <span>Content Writers</span>   
                 </td>
-                <td onclick="displayDiv('software-dev-content')" style="padding-top:12px;">
+                <td onclick="displayDiv('software-dev-content');updateDest('Software Developers')" style="padding-top:12px;">
                      <img src="images/people/thumbs/yuko-thumb.jpg" alt="Photo of Yuko" />
-                     <span>Developer</span>   
+                     <span>Software Developers</span>   
                 </td>
             </tr>
         </table>
