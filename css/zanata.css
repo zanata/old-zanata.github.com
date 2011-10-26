@@ -10,7 +10,7 @@ body {
 	width: 1000px;
 	margin: 0 auto;
 	background-color: #FFF;
-	box-shadow:0 0 5px #320032;
+	box-shadow:0 0 10px #320032;
 }
 
 #js-alert{background:yellow;}
@@ -154,8 +154,8 @@ a#logo{
 
 #main-content{
 	height: 100%;
-/* 	background: #F4F4F4; */
-	background: #E5E5E5;
+	background: #F4F4F4;
+/* 	background: #E5E5E5; */
 	padding-top: 20px;
 	padding-bottom: 20px;
 	min-height:490px;
@@ -316,7 +316,7 @@ a#logo{
     height:490px;
 }
 .tab_table td{
-	border: 8px solid #e5e5e5;
+	border: 8px solid #f4f4f4;
 	box-shadow: 0 0 10px #320032 inset;
 }
 
