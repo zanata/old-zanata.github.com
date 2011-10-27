@@ -347,6 +347,18 @@ tr.tab span{
 	text-shadow: 0 0 8px grey;
 }
 
-td.button{
-	
+.tab_img{
+	opacity:0.7;
+    filter:alpha(opacity=70);
+}
+
+.content_table td.content{
+	box-shadow:0 0 0;
+	vertical-align:top;
+}
+
+.content_table td.img{
+    box-shadow:0 0 0;
+    vertical-align:top;
+    text-align: right;
 }
