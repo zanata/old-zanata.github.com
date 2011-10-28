@@ -2,7 +2,7 @@
 
 body {
 	font: 12px Arial, Tahoma, Geneva, sans-serif;
-	background-color: #FAFAFA;
+	background-color: #ECECEC;
 	color:#333333;
 }
 
@@ -21,7 +21,8 @@ a, a:link{
 	font-weight:bold;
 	font-size:14px;
 }
-a:hover {color: #A69500;}
+Ca:hover {color: #A69500;}
+a:hover {color: #8FA529;}
 
 h1, h2, h3, h4, h5, h6 {
 	display:block; 
@@ -74,6 +75,15 @@ h2.section-header {
 	font-size: 12pt;
 }
 
+.section-content .twitter_section  p{
+	font-size:12px;
+    font-family:arial;
+}
+
+.section-content .twitter_section  a{
+    font-size:12px;
+}
+
 /*-------Sticky footer styles with CLEARFIX-------*/
 html, body, #page-wrap, #main-content{height: 100%;}
 body > #page-wrap{height: auto; min-height:100%;}
@@ -84,6 +94,7 @@ body > #page-wrap{height: auto; min-height:100%;}
 	height: 150px;
 	color:black;
 	margin-bottom:0;
+	margin-top:30px;
 }
 
 .clearfix:after{
@@ -116,7 +127,6 @@ a#logo{
 }
 
 #header-sign-in{
-	background-color: #FFFFFF;
     border-bottom: 1px solid #CCCCCC;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -138,7 +148,7 @@ a#logo{
 }
 
 .social{
-	 box-shadow: 0 0 10px #320032 inset;
+/* 	 box-shadow: 0 0 10px #320032 inset; */
     -moz-border-radius: 30px;
     -webkit-border-radius: 30px;
     -khtml-border-radius: 30px;
@@ -147,17 +157,17 @@ a#logo{
     padding-left:20px;
     font-size:1.5em;
     font-weight:bold;
-    
+    border: 2px solid #8FA529;
+/*     background:#8FA529; */
 }
 
 /*-------Main-content styles-------*/
 
 #main-content{
 	height: 100%;
-	background: #F4F4F4;
-/* 	background: #E5E5E5; */
-	padding-top: 20px;
-	padding-bottom: 20px;
+	background: #F5F5F5;
+	padding-top: 5px;
+	padding-bottom: 10px;
 	min-height:490px;
 	border-top:1px dotted grey;
 	border-bottom:1px dotted grey;
@@ -175,11 +185,11 @@ a#logo{
 	font-family:"Lucida Sans Unicode","Lucida Grande",Tahoma,Helvetica,Arial,sans-serif;
 }
 
-#main-content table{
+.contentTable{
 	width:100%;
 }
 
-#main-content td{
+.contentTable td{
     padding-left:20px;
     padding-right:20px;
     padding-top:30px;
@@ -288,7 +298,7 @@ a#logo{
 }
 
 #menu_bar a:hover{
-    background-color:#A69500;
+    background-color:#8FA529;
 }
 
 #menu_bar li a.here{
@@ -314,11 +324,53 @@ a#logo{
 
 .tab_table {
     height:490px;
+    width:100%;
 }
 .tab_table td{
-	border: 8px solid #f4f4f4;
+	border: 8px solid #f5f5f5;
 	box-shadow: 0 0 10px #320032 inset;
+	padding:20px;
 }
+
+tr.tab{
+    padding: 10px; 
+}
+
+tr.tab td:hover{
+    border: 8px solid #f5f5f5;
+    box-shadow: 0 0 18px #3E4A00 inset;
+}
+
+tr.tab td{
+    cursor: pointer;
+    font-size:14px;
+    font-weight:bold;
+    width:85px;
+    padding-top:12px;
+    padding-left:20px;
+    padding-right:0;
+    padding-bottom:0;
+}
+
+tr.tab span{
+    text-shadow: 0 0 8px grey;
+}
+
+.index_table {
+    width:100%;	
+}
+
+.index_table .tab_section{
+	width:680px;
+	vertical-align:top;
+}
+
+.index_table .twitter_section{
+    width:250px;
+    vertical-align:middle;
+    padding-left:10px;
+}
+
 
 div.hide {
 	display: none;
@@ -332,24 +384,12 @@ tr.desc{
 	height:380px;
 }
 
-tr.tab{
-	padding: 10px; 
-}
-
-tr.tab td{
-    cursor: pointer;
-    font-size:14px;
-    font-weight:bold;
-}
-
-tr.tab span{
-	padding-left:15px;
-	text-shadow: 0 0 8px grey;
-}
-
 .tab_img{
 	opacity:0.7;
     filter:alpha(opacity=70);
+}
+.content_table {
+	width:100%;
 }
 
 .content_table td.content{
