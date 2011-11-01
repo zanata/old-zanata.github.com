@@ -19,7 +19,7 @@ a, a:link{
 	text-decoration: none;
 	color:#7c1f5d;
 	font-weight:bold;
-	font-size:14px;
+	font-size:13px;
 }
 Ca:hover {color: #A69500;}
 a:hover {color: #8FA529;}
@@ -72,7 +72,7 @@ h2.section-header {
 
 .section-content p{
 	font-family:"Lucida Sans Unicode", "Lucida Grande", Tahoma, Helvetica, Arial, sans-serif;
-	font-size: 12pt;
+	font-size: 15px;
 }
 
 .section-content .twitter_section  p{
@@ -154,11 +154,25 @@ a#logo{
     -khtml-border-radius: 30px;
     border-radius: 30px;
     height:98px;
-    padding-left:20px;
     font-size:1.5em;
     font-weight:bold;
     border: 2px solid #8FA529;
-/*     background:#8FA529; */
+}
+
+.social_table{
+    width:100%;
+}
+
+.social_table td.right{
+    text-align:right;
+    padding:0px;
+    vertical-align:middle;
+}
+.social_table td.left{
+    text-align:left;
+    padding:10px;
+    vertical-align:middle;
+    width:170px;
 }
 
 /*-------Main-content styles-------*/
@@ -338,7 +352,7 @@ tr.tab{
 
 tr.tab td:hover{
     border: 8px solid #f5f5f5;
-    box-shadow: 0 0 18px #3E4A00 inset;
+    box-shadow: 0 0 20px #8FA529 inset;
 }
 
 tr.tab td{
@@ -385,8 +399,8 @@ tr.desc{
 }
 
 .tab_img{
-	opacity:0.7;
-    filter:alpha(opacity=70);
+/* 	opacity:0.8; */
+/*     filter:alpha(opacity=80); */
 }
 .content_table {
 	width:100%;

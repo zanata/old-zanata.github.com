@@ -34,7 +34,7 @@
         </div>
         
         <div id="breadcrumb">
-            <a href onclick="displayDiv('zanata-desc')" style="cursor:pointer"> >> Home</a><span id="dest"></span>
+            <a href="#" onclick="displayDiv('zanata-desc')" style="cursor:pointer"> >> Home</a><span id="dest"></span>
         </div>
     </div><!-- End Header -->
 <!-- ----------------------- Call-out Section ----------------------- -->
@@ -129,19 +129,18 @@
 			                            
 			                        <p>For more information, see the <a href="http://zanata.org/docs/html/index.html">Zanata Quick Start Guide</a> and other <a href="documentation.html">documentation</a></p>
 			                    </div><!-- End Software-developer-content -->
-			                    
 			                </td>
 			            </tr>
 			            <tr class="tab">
-			                <td onmouseover="displayDiv('translator-content');updateDest('Translators')">
+			                <td onclick="displayDiv('translator-content');updateDest('Translators')">
 			                     <img src="images/people/thumbs/thumb1.png" alt="Translators"/>
 			                     <span>Translators</span>  
 			                </td>
-			                <td onmouseover="displayDiv('writer-content');updateDest('Content Writers')">
+			                <td onclick="displayDiv('writer-content');updateDest('Content Writers')">
 			                     <img src="images/people/thumbs/thumb2.png" alt="Writers" />
 			                     <span>Content Writers</span>   
 			                </td>
-			                <td onmouseover="displayDiv('software-dev-content');updateDest('Software Developers')">
+			                <td onclick="displayDiv('software-dev-content');updateDest('Software Developers')">
 			                     <img src="images/people/thumbs/thumb3.png" alt="Developers" />
 			                     <span>Developers</span>   
 			                </td>
@@ -185,7 +184,7 @@
     </div>
     
     <div id="footer" class="centre">
-	    <p>Copyright 2008-11 Red Hat, Inc and others.</p>
+	    <p>Open source project supported by Red Hat.</p>
 	    <div id="sponsor">
 	        <a href="http://www.redhat.com/"><img src="images/sponsor/RHrgb288.png" alt="Red Hat Logo" /></a>
 	    </div><!-- End Sponsor -->
