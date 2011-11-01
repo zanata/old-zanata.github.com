@@ -40,10 +40,13 @@ h2{
 	-webkit-margin-before:0.83em;
 	-webkit-margin-after:0.83em;
 }
+
 h3{
 	font-size:1.17em;
 	padding-top:15px;
 }
+
+
 h4{-webkit-margin-before:1.33em;-webkit-margin-after:1.33em;}
 h5{font-size:0.83em;-webkit-margin-before:1.67em;-webkit-margin-after:1.67em;}
 h6{font-size:0.67em;-webkit-margin-before:2.33em;-webkit-margin-after:2.33em;}
@@ -241,10 +244,20 @@ a#logo{
 }
 
 #faq-section span {
-	padding-left: 5px;
-	padding-right: 5px;
-	color: black
+/* 	padding-left: 5px; */
+/* 	padding-right: 5px; */
+/* 	color: black */
 }
+
+#faq-section span.question{
+    color:#630045;
+}
+
+#faq-section span.answer{
+    color:#8FA529;
+    font-weight:bold;
+}
+
 #faq-section span#grey-text{
 	margin-right: 10px;
 	font-style: italic;
