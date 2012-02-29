@@ -130,31 +130,24 @@ a#logo{
 }
 
 #header-sign-in{
-    border-bottom: 1px solid #CCCCCC;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-left: 1px solid #CCCCCC;
-    border-right: 1px solid #CCCCCC;
+    border: 1px solid #CCC;
+    border-radius: 5px;
+    -moz-border-radius:5px;
     position: absolute;
     right: 30px;
-    top: 0;
-	box-shadow: 0 -4px 5px #E9E9E9 inset;
-	-moz-box-shadow:0 -4px 5px #E9E9E9 inset;
-	-webkit-box-shadow:0 -4px 5px #E9E9E9 inset;
+    box-shadow: 0 0 2px #aaa;
+    margin-top:5px;
 }
 
 #header-sign-in a{
-	float: left;
-    padding: 20px;
-    padding:15px;
+    float: left;
+    padding: 8px 10px 8px 10px;
     font-weight:normal;
 }
 
 .social{
 /* 	 box-shadow: 0 0 10px #320032 inset; */
     -moz-border-radius: 30px;
-    -webkit-border-radius: 30px;
-    -khtml-border-radius: 30px;
     border-radius: 30px;
     height:98px;
     font-size:1.5em;
