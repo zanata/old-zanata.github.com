@@ -422,3 +422,8 @@ tr.desc{
     vertical-align:top;
     text-align: right;
 }
+
+.tutorial_table td {
+   padding:10px;
+  vertical-align:bottom;
+}
