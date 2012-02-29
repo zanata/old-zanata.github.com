@@ -11,6 +11,7 @@ body {
 	margin: 0 auto;
 	background-color: #FFF;
 	box-shadow:0 0 30px #320032;
+	-moz-box-shadow:0 0 30px #320032;
 }
 
 #js-alert{background:yellow;}
@@ -136,6 +137,7 @@ a#logo{
     position: absolute;
     right: 30px;
     box-shadow: 0 0 2px #aaa;
+    -moz-box-shadow:0 0 2px #aaa;
     margin-top:5px;
 }
 
@@ -146,7 +148,6 @@ a#logo{
 }
 
 .social{
-/* 	 box-shadow: 0 0 10px #320032 inset; */
     -moz-border-radius: 30px;
     border-radius: 30px;
     height:98px;
@@ -311,10 +312,9 @@ a#logo{
     text-align:center;
     
     box-shadow: 0 0 5px #666666 inset;
+    -moz-box-shadow:0 0 5px #666666 inset;
     -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -khtml-border-radius: 10px;
-    border-radius: 10px; /* future proofing */
+    border-radius: 10px;
 }
 
 #menu_bar a:hover{
@@ -350,6 +350,7 @@ a#logo{
 	border: 8px solid #f5f5f5;
 	box-shadow: 0 0 10px #320032 inset;
 	padding:20px;
+	-moz-box-shadow:0 0 10px #320032 inset;
 }
 
 tr.tab{
@@ -359,6 +360,7 @@ tr.tab{
 tr.tab td:hover{
     border: 8px solid #f5f5f5;
     box-shadow: 0 0 20px #8FA529 inset;
+    -moz-box-shadow:0 0 20px #8FA529 inset;
 }
 
 tr.tab td{
@@ -415,10 +417,12 @@ tr.desc{
 .content_table td.content{
 	box-shadow:0 0 0;
 	vertical-align:top;
+	-moz-box-shadow:0 0 0;
 }
 
 .content_table td.img{
     box-shadow:0 0 0;
+    -moz-box-shadow:0 0 0;
     vertical-align:top;
     text-align: right;
 }
