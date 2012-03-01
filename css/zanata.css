@@ -298,7 +298,7 @@ a#logo{
 
 #menu_bar li a{
 	height:24px;
-    width:160px;
+    width:140px;
     
     margin-top:2px;
     margin-right: 2px;
@@ -402,6 +402,16 @@ div.show {
 	display: block;
 }
 
+div.download {
+	margin-top: 10px;
+	padding: 10px;
+	background-color: white;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	border: 2px solid #8FA529;
+}
+
 tr.desc{
 	height:380px;
 }
@@ -430,4 +440,39 @@ tr.desc{
 .tutorial_table td {
    padding:10px;
   vertical-align:bottom;
+}
+
+.download_title {
+	font-size: 12px;
+	font-weight: bold;
+	color: black;
+	margin-bottom: 3px;
+}
+
+.download_desc {
+	font-size: 11px;
+	color: black;
+	font-weight: normal;
+}
+
+.download_img {
+	float: left; 
+	margin-right: 3px;
+}
+
+.getting_started {
+	padding-right: 20px;
+}
+
+.internal_section {
+	background-color: white;
+	padding: 10px;
+	margin-bottom: 10px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+p.static_code {
+	font-family: monospace;
 }

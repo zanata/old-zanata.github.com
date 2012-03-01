@@ -1,0 +1,148 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Welcome To Zanata - the Open Source Document Translation Project</title>
+<link rel="stylesheet" type="text/css" href="css/meyer-reset.css"/>
+<link rel="stylesheet" type="text/css" href="css/zanata.css"/>
+<link rel="Shortcut Icon" type="image/ico" href="favicon.ico" />
+
+<script language="javascript" type="text/javascript" src="js/zanata.js"></script>
+
+</head>
+
+<body>
+<div id="page-wrap">
+    <div id="content">
+    
+    <div id="header">
+        <a id="logo" href="index.html"><img src="images/zanata.png" title="Zanata Logo" alt="Zanata Logo" /></a>
+        
+        <div id="header-sign-in">
+            <a id="sign-in" href="https://translate.zanata.org/zanata/account/sign_form">Sign In</a>
+            <a href="https://admin.fedoraproject.org/accounts/user/new">Register</a>
+        </div><!-- End Header-sign-in -->
+      
+        <div id="menu_bar">
+            <ul>
+                <li><a class="here" href="index.html">Home</a></li>
+                <li><a href="documentation.html">Documentation</a></li>
+                <li><a href="community.html">Community</a></li>
+                <li><a href="developers.html">Contribute</a></li>
+                <li><a href="faq.html">FAQ/Tutorial</a></li>
+                <li><a href="download.html">Download</a></li>
+           </ul>
+        </div>
+        
+        <div id="breadcrumb">
+	            >> Downloads
+	        </div>
+    </div><!-- End Header -->
+<!-- ----------------------- Call-out Section ----------------------- -->
+    
+    <div id="main-content" class="section-content">
+        <table class="index_table">
+            <tr>
+                <td class="tab_section">
+                	<div class="getting_started">
+	                	<h2 class="section-header">Getting Started</h2>
+	                    <div class="internal_section">
+	                    	<h1>1. Download</h1>
+	                    	<p>
+	                    		Download the package that best suits you:
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p><b>Zanata Server:</b> Easiest way to get Zanata up and running.</p>
+	                    	<p>&nbsp;</p>
+	                    	<p><b>Zanata Web Archive:</b> For more experienced users. You will need to provide a JBoss installation and deploy Zanata.</p>
+	                    </div>
+	                    <div class="internal_section">
+	                    	<h1>2. Setup the Zanata Database</h1>
+	                    	<p>
+	                    		Zanata has been thoroughly tested against MySQL 5 so it's recommended that you install and use it with Zanata. 
+	                    		You can download a copy <a href="http://dev.mysql.com/downloads/mysql/">Here</a>.
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p>
+	                    		Once you have installed the Database server, you only need to tell Zanata where it is. To do this,
+	                    		open the file
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p class="static_code">
+	                    		&lt;ZANATA DIR&gt;/server/zanata/deploy/zanata-ds.xml
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p>
+	                    		This file contains the database settings for Zanata. Modify the values for the following properties according to the database
+	                    		instance you have created for zanata. (If you are using MySQL as recommended, you will only need to change these):
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p><b>connection-url</b> This is the database location. By default it is configured to localhost, port 3306 and an instance named 'zanata'.</p>
+	                    	<p><b>user-name</b> Database user name. This user name should have full table creation permissions on the database instance.</p>
+	                    	<p><b>password</b> Database password.</p>
+	                    </div>
+	                    <div class="internal_section">
+	                    	<h1>3. Start Zanata</h1>
+	                    	<p>
+	                    		Starting zanata is as easy as running the 'StartZanata' executable found at
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p class="static_code">
+	                    		&lt;ZANATA DIR&gt;/bin/StartZanata.sh
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p>
+	                    		... or for Windows users
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p class="static_code">
+	                    		&lt;ZANATA DIR&gt;/bin/StartZanata.bat
+	                    	</p>
+	                    </div>
+	                    <div class="internal_section">
+	                    	<h1>4. Start Using it!</h1>
+	                    	<p>
+	                    		By default, Zanata will have an 'admin' user with password 'admin'. Be sure to change
+	                    		this password when possible (don't say we didn't warn you).
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p>
+	                    		For more information, check out our <a href="documentation.html">documentation</a> section.
+	                    	</p>
+	                    </div>
+	                </div>
+                </td>
+                    
+                
+                <td class="download_section">
+                    <div class="download">
+                    	<a href="https://github.com/downloads/zanata/zanata/zanata-server-1.5.0.zip">
+                    		<img src="images/download.jpg" alt="" class="download_img" width="40px"/>
+                    		<div class="download_title">Zanata 1.5.0 Server</div>
+                    		<div class="download_desc">Zanata Standalone server (based on JBoss 5.1.0)</div>
+                    	</a>
+                    </div>
+                    <div class="download">
+                    	<a href="https://github.com/downloads/zanata/zanata/zanata.war">
+	                    	<img src="images/download.jpg" alt="" class="download_img" width="40px"/>
+	                    	<div class="download_title">Zanata 1.5.0 web archive</div>
+	                    	<div class="download_desc">Zanata .war deployable file. (Works best on JBoss 5.1.0)</div>
+	                    </a>
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+    
+    <div id="footer" class="centre">
+            <p>Zanata is an open source project supported by Red Hat.</p><br/>
+            <div id="sponsor">
+                <a href="http://www.redhat.com/"><img src="images/sponsor/RHrgb288.png" alt="Red Hat Logo" /></a>
+            </div>
+            <p style="padding-top:90px">Copyright 2008-11 Red Hat, Inc and others.</p>           
+     </div><!-- End Footer -->
+    
+    </div>
+</div><!-- End Page-wrap -->
+</body>
+</html>
