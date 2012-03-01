@@ -52,9 +52,9 @@
 	                    		Download the package that best suits you:
 	                    	</p>
 	                    	<p>&nbsp;</p>
-	                    	<p><b>Zanata Server:</b> Easiest way to get Zanata up and running.</p>
+	                    	<p><b>Zanata Server:</b> Easiest way to get Zanata up and running. Extract the contents of this file. The following steps will refer to this location as &lt;ZANATA DIR&gt;.</p>
 	                    	<p>&nbsp;</p>
-	                    	<p><b>Zanata Web Archive:</b> For more experienced users. You will need to provide a JBoss installation and deploy Zanata.</p>
+	                    	<p><b>Zanata Web Archive:</b> For more experienced users. You will need to provide a JBoss installation, configure it, and deploy Zanata manually.</p>
 	                    </div>
 	                    <div class="internal_section">
 	                    	<h1>2. Setup the Zanata Database</h1>
@@ -64,8 +64,11 @@
 	                    	</p>
 	                    	<p>&nbsp;</p>
 	                    	<p>
-	                    		Once you have installed the Database server, you only need to tell Zanata where it is. To do this,
-	                    		open the file
+	                    		Once you have installed the Database server, create a database schema for Zanata (make sure the default collation is UTF-8).
+	                    	</p>
+	                    	<p>&nbsp;</p>
+	                    	<p>
+	                    		Now you only need to tell Zanata where to find this database. To do this, open the file:
 	                    	</p>
 	                    	<p>&nbsp;</p>
 	                    	<p class="static_code">
@@ -77,18 +80,18 @@
 	                    		instance you have created for zanata. (If you are using MySQL as recommended, you will only need to change these):
 	                    	</p>
 	                    	<p>&nbsp;</p>
-	                    	<p><b>connection-url</b> This is the database location. By default it is configured to localhost, port 3306 and an instance named 'zanata'.</p>
+	                    	<p><b>connection-url</b> This is the database location. By default it is configured to localhost, port 3306 and a schema named 'zanata'.</p>
 	                    	<p><b>user-name</b> Database user name. This user name should have full table creation permissions on the database instance.</p>
 	                    	<p><b>password</b> Database password.</p>
 	                    </div>
 	                    <div class="internal_section">
 	                    	<h1>3. Start Zanata</h1>
 	                    	<p>
-	                    		Starting zanata is as easy as running the 'StartZanata' executable found at
+	                    		Starting zanata is as easy as running the 'start-zanata' executable found at
 	                    	</p>
 	                    	<p>&nbsp;</p>
 	                    	<p class="static_code">
-	                    		&lt;ZANATA DIR&gt;/bin/StartZanata.sh
+	                    		&lt;ZANATA DIR&gt;/bin/start-zanata.sh
 	                    	</p>
 	                    	<p>&nbsp;</p>
 	                    	<p>
@@ -96,7 +99,7 @@
 	                    	</p>
 	                    	<p>&nbsp;</p>
 	                    	<p class="static_code">
-	                    		&lt;ZANATA DIR&gt;/bin/StartZanata.bat
+	                    		&lt;ZANATA DIR&gt;/bin/start-zanata.bat
 	                    	</p>
 	                    </div>
 	                    <div class="internal_section">
