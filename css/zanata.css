@@ -476,3 +476,20 @@ tr.desc{
 p.static_code {
 	font-family: monospace;
 }
+
+.release_notes_table {
+	width: 100%;
+}
+
+.release_notes_table td {
+	padding-top: 0px;
+}
+
+.release_notes_table h3 {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.release_notes_table tr > td:first-child {
+	width: 100%;
+} 
