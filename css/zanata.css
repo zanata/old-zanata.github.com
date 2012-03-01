@@ -412,6 +412,11 @@ div.download {
 	border: 2px solid #8FA529;
 }
 
+div.download:hover {
+	box-shadow:0 0 10px #8FA529 inset;
+	-moz-box-shadow:0 0 10px #8FA529 inset;
+}
+
 tr.desc{
 	height:380px;
 }
