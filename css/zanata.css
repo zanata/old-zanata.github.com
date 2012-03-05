@@ -494,7 +494,3 @@ p.static_code {
 	padding-top: 5px;
 	padding-bottom: 5px;
 }
-
-.release_notes_table tr > td:first-child {
-	width: 100%;
-} 
