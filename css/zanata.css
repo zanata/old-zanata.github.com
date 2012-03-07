@@ -261,12 +261,15 @@ a#logo{
 	font-style: italic;
 	border-left: 3px solid #FFC000;
 	border-right: 3px solid #FFC000;
+	padding-right: 5px;
+	padding-left: 5px;
 }
 #faq-section span#green-text{
 	margin-right: 10px;
 	border-left: 3px solid #099B09;
 	border-right: 3px solid #099B09;
-	
+	padding-right: 5px;
+	padding-left: 5px;
 }
 
 /*-------Footer styles-------*/
