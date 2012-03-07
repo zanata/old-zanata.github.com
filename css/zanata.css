@@ -150,7 +150,7 @@ a#logo{
 .social{
     -moz-border-radius: 30px;
     border-radius: 30px;
-    height:98px;
+    height:125px;
     font-size:1.5em;
     font-weight:bold;
     border: 2px solid #8FA529;
@@ -167,7 +167,7 @@ a#logo{
 }
 .social_table td.left{
     text-align:left;
-    padding:10px;
+    padding:8px;
     vertical-align:middle;
     width:170px;
 }
