@@ -491,6 +491,11 @@ p.static_code {
 
 .release_notes_table td {
 	padding-top: 0px;
+	border-bottom:1px dotted #D3D3D3;
+}
+
+.release_notes_table tr:hover {
+	background: #E7E7E7;
 }
 
 .release_notes_table h3 {
