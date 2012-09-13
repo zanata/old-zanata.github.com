@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="1046.8217"
+   height="662.11444"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DotS"
+       style="fill:#ff8080;stroke:#ff8080;overflow:visible">
+      <path
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         id="path4269"
+         style="fill-rule:evenodd;stroke:#ff8080;stroke-width:1pt;marker-start:none;marker-end:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DotSOrange"
+       style="fill:#ff6600;stroke:#ff6600;overflow:visible">
+      <path
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         id="path2944"
+         style="fill-rule:evenodd;stroke:#ff6600;stroke-width:1pt;marker-start:none;marker-end:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DotM"
+       style="overflow:visible">
+      <path
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         id="path4266"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="DotL"
+       style="overflow:visible">
+      <path
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         id="path4263"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none;marker-end:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8,0.8)"
+         id="path4344"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path4222"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         id="path4204"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         id="path4201"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4000" />
+  </defs>
+  <g
+     transform="translate(2.1164167,-308.31049)"
+     id="layer1">
+    <rect
+       width="411.42862"
+       height="521.42853"
+       rx="20"
+       ry="20"
+       x="384.18933"
+       y="353.83282"
+       id="rect2856"
+       style="fill:#380038;fill-opacity:1" />
+    <rect
+       width="334.28574"
+       height="399.99997"
+       rx="20"
+       ry="20"
+       x="427.04645"
+       y="449.54712"
+       id="rect3640"
+       style="fill:#890f63;fill-opacity:1" />
+    <rect
+       width="274.31549"
+       height="298.57141"
+       rx="20"
+       ry="20"
+       x="462.73102"
+       y="526.69"
+       id="rect3642"
+       style="fill:#8fa529;fill-opacity:1" />
+    <text
+       x="186.99208"
+       y="378.14532"
+       id="text3807"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ff8080;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="186.99208"
+         y="378.14532"
+         id="tspan3809"
+         style="font-size:32px;fill:#ff8080">Maintainer</tspan></text>
+    <text
+       x="831.38654"
+       y="378.14532"
+       id="text3811"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ff6600;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="831.38654"
+         y="378.14532"
+         id="tspan3813"
+         style="font-size:32px;fill:#ff6600">Translator</tspan></text>
+    <g
+       transform="translate(165.66502,11.111677)"
+       id="g2996">
+      <g
+         transform="matrix(0.78462885,0,0,0.78462885,-417.41307,-327.1153)"
+         id="g3784">
+        <rect
+           width="110"
+           height="110"
+           x="511.42856"
+           y="1223.7908"
+           id="rect3774"
+           style="fill:#99ccff;fill-opacity:1" />
+        <rect
+           width="110"
+           height="44.307472"
+           x="1909.111"
+           y="1813.5123"
+           transform="matrix(1,0,-0.75235696,0.65875565,0,0)"
+           id="rect3778"
+           style="fill:#add6ff;fill-opacity:1" />
+        <rect
+           width="44.153389"
+           height="110"
+           x="830.39227"
+           y="1774.8569"
+           transform="matrix(0.74820337,-0.66346945,0,1,0,0)"
+           id="rect3782"
+           style="fill:#7aa3cc;fill-opacity:1" />
+      </g>
+      <text
+         x="1.7541784"
+         y="700.90094"
+         id="text2987"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="1.7541784"
+           y="700.90094"
+           id="tspan2989"
+           style="font-size:72px">A</tspan></text>
+    </g>
+    <g
+       transform="translate(170.71578,3.0304531)"
+       id="g2991">
+      <rect
+         width="79.802048"
+         height="104.04572"
+         x="76.505493"
+         y="624.12921"
+         id="rect3862"
+         style="opacity:0.75;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+      <text
+         x="92.667908"
+         y="702.92126"
+         id="text3864"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="92.667908"
+           y="702.92126"
+           id="tspan3866"
+           style="font-size:72px">A</tspan></text>
+    </g>
+    <g
+       transform="translate(-341.43157,-97.984797)"
+       id="g3071">
+      <g
+         transform="matrix(0.78462885,0,0,0.78462885,75.54138,-18.00862)"
+         id="g3006">
+        <rect
+           width="110"
+           height="110"
+           x="511.42856"
+           y="1223.7908"
+           id="rect3008"
+           style="fill:#99ccff;fill-opacity:1" />
+        <rect
+           width="110"
+           height="44.307472"
+           x="1909.111"
+           y="1813.5123"
+           transform="matrix(1,0,-0.75235696,0.65875565,0,0)"
+           id="rect3010"
+           style="fill:#add6ff;fill-opacity:1" />
+        <rect
+           width="44.153389"
+           height="110"
+           x="830.39227"
+           y="1774.8569"
+           transform="matrix(0.74820337,-0.66346945,0,1,0,0)"
+           id="rect3012"
+           style="fill:#7aa3cc;fill-opacity:1" />
+      </g>
+      <text
+         x="484.8262"
+         y="1009.7911"
+         id="text3024"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="484.8262"
+           y="1009.7911"
+           id="tspan3026"
+           style="font-size:72px">我</tspan></text>
+      <text
+         x="836.39093"
+         y="1560.7339"
+         transform="matrix(0.67390021,-1.542794,0,1.4838992,0,0)"
+         id="text3032"
+         xml:space="preserve"
+         style="font-size:20.08485222px;font-style:normal;font-weight:normal;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="836.39093"
+           y="1560.7339"
+           id="tspan3034"
+           style="font-size:36.15273285px">ॐ</tspan></text>
+      <text
+         x="1368.4766"
+         y="1638.7109"
+         transform="matrix(1.7470009,0,-1.1605043,0.57240955,0,0)"
+         id="text3040"
+         xml:space="preserve"
+         style="font-size:18.90279579px;font-style:normal;font-weight:normal;opacity:0.75;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="1368.4766"
+           y="1638.7109"
+           id="tspan3042"
+           style="font-size:34.02503204px">本</tspan></text>
+    </g>
+    <g
+       transform="translate(-464.87684,-71.974644)"
+       id="g3930">
+      <g
+         transform="translate(40.565796,-47.367989)"
+         id="g3890"
+         style="opacity:0.75">
+        <rect
+           width="79.802048"
+           height="104.04572"
+           x="689.9342"
+           y="935.18445"
+           id="rect3868"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+        <text
+           x="695.99512"
+           y="1013.9764"
+           id="text3870"
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+             x="695.99512"
+             y="1013.9764"
+             id="tspan3872"
+             style="font-size:72px">我</tspan></text>
+      </g>
+      <g
+         transform="translate(-37.06366,340.37835)"
+         id="g3900"
+         style="opacity:0.75">
+        <rect
+           width="79.802048"
+           height="104.04572"
+           x="752.56366"
+           y="562.43811"
+           id="rect3880"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+        <text
+           x="758.62451"
+           y="644.26062"
+           id="text3886"
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+             x="758.62451"
+             y="644.26062"
+             id="tspan3888"
+             style="font-size:72px">ॐ</tspan></text>
+      </g>
+      <g
+         transform="translate(-139.94696,188.70318)"
+         id="g3895"
+         style="opacity:0.75">
+        <rect
+           width="79.802048"
+           height="104.04572"
+           x="840.44696"
+           y="729.11328"
+           id="rect3874"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+        <text
+           x="845.49768"
+           y="806.89514"
+           id="text3876"
+           xml:space="preserve"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+             x="845.49768"
+             y="806.89514"
+             id="tspan3878"
+             style="font-size:72px">本</tspan></text>
+      </g>
+    </g>
+    <g
+       transform="translate(-214.19929,-222.37819)"
+       id="g3946"
+       style="opacity:0.75">
+      <rect
+         width="79.802048"
+         height="104.04572"
+         x="689.9342"
+         y="935.18445"
+         id="rect3948"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+      <text
+         x="695.99512"
+         y="1013.9764"
+         id="text3950"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="695.99512"
+           y="1013.9764"
+           id="tspan3952"
+           style="font-size:72px">我</tspan></text>
+    </g>
+    <g
+       transform="translate(-106.97084,150.21586)"
+       id="g3954"
+       style="opacity:0.75">
+      <rect
+         width="79.802048"
+         height="104.04572"
+         x="752.56366"
+         y="562.43811"
+         id="rect3956"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+      <text
+         x="758.62451"
+         y="644.26062"
+         id="text3958"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="758.62451"
+           y="644.26062"
+           id="tspan3960"
+           style="font-size:72px">ॐ</tspan></text>
+    </g>
+    <g
+       transform="translate(-279.55466,-15.601443)"
+       id="g3962"
+       style="opacity:0.75">
+      <rect
+         width="79.802048"
+         height="104.04572"
+         x="840.44696"
+         y="729.11328"
+         id="rect3964"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+      <text
+         x="845.49768"
+         y="806.89514"
+         id="text3966"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="845.49768"
+           y="806.89514"
+           id="tspan3968"
+           style="font-size:72px">本</tspan></text>
+    </g>
+    <g
+       transform="translate(172.46996,-337.31916)"
+       id="g3970"
+       style="opacity:0.75">
+      <rect
+         width="79.802048"
+         height="104.04572"
+         x="388.90875"
+         y="930.13367"
+         id="rect3972"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-opacity:1" />
+      <text
+         x="405.07117"
+         y="1008.9257"
+         id="text3974"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="405.07117"
+           y="1008.9257"
+           id="tspan3976"
+           style="font-size:72px">A</tspan></text>
+    </g>
+    <path
+       d="m 95.270012,548.3592 52.906738,0"
+       id="path4014"
+       style="fill:none;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:31.89999962;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#Arrow2Lend)" />
+    <path
+       d="m 182.8071,462.35964 c 0,0 251.84487,2.85714 251.84487,2.85714"
+       id="path5794"
+       style="fill:#ff8080;stroke:#ff8080;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotS)" />
+    <path
+       d="m 182.8071,538.12108 292.49609,0"
+       id="path2906"
+       style="fill:#ff8080;stroke:#ff8080;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotS)" />
+    <path
+       d="m 182.8071,608.83177 388.63389,0"
+       id="path2908"
+       style="fill:#ff8080;stroke:#ff8080;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotS)" />
+    <text
+       x="178.95944"
+       y="445.2605"
+       id="text2910"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="178.95944"
+         y="445.2605"
+         id="tspan2912"
+         style="font-size:24px">Create project</tspan></text>
+    <text
+       x="41.416252"
+       y="279.42432"
+       transform="translate(0,308.2677)"
+       id="text2914"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="41.416252"
+         y="279.42432"
+         id="tspan2916" /></text>
+    <text
+       x="180.1196"
+       y="522.03204"
+       id="text2918"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="180.1196"
+         y="522.03204"
+         id="tspan2920"
+         style="font-size:24px">Add version</tspan></text>
+    <text
+       x="29.294424"
+       y="338.01315"
+       transform="translate(0,308.2677)"
+       id="text2922"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="29.294424"
+         y="338.01315"
+         id="tspan2924" /></text>
+    <text
+       x="177.95163"
+       y="596.78339"
+       id="text2926"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="177.95163"
+         y="596.78339"
+         id="tspan2928"
+         style="font-size:24px">Push strings</tspan></text>
+    <text
+       x="177.95163"
+       y="789.11078"
+       id="text2930"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="177.95163"
+         y="789.11078"
+         id="tspan2948"
+         style="font-size:24px">Pull translations</tspan></text>
+    <path
+       d="m 182.8071,805.8115 305.20964,0"
+       id="path2934"
+       style="fill:#ff8080;stroke:#ff8080;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotS)" />
+    <g
+       transform="matrix(1.1450762,0,0,1.1450762,-134.31556,-58.058965)"
+       id="g3143">
+      <rect
+         width="162.36072"
+         height="131.29532"
+         x="842.77295"
+         y="407.65933"
+         id="rect3928"
+         style="fill:#aca793;fill-opacity:1;stroke:#000000;stroke-width:0.87330431;stroke-opacity:1" />
+      <image
+         xlink:href="/home/damason/Documents/zanata/zanata-diagrams/screenshots/zanata-editor-1.4.png"
+         id="image3924"
+         height="95.719643"
+         width="142.24385"
+         y="415.65042"
+         x="852.64172" />
+      <text
+         x="860.9433"
+         y="532.50708"
+         id="text2936"
+         xml:space="preserve"
+         style="font-size:23.2099514px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="860.9433"
+           y="532.50708"
+           id="tspan2938">web editor</tspan></text>
+    </g>
+    <path
+       d="m 1014.2963,608.83177 -382.84772,0"
+       id="path2940"
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotSOrange)" />
+    <path
+       d="m 1017.3268,805.8115 -305.06601,0"
+       id="path2946"
+       style="fill:#ff6600;stroke:#ff6600;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#DotSOrange)" />
+    <text
+       x="868.0611"
+       y="596.78339"
+       id="text2954"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="868.0611"
+         y="596.78339"
+         id="tspan2956"
+         style="font-size:24px">View strings</tspan></text>
+    <text
+       x="808.7478"
+       y="793.76312"
+       id="text2958"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="808.7478"
+         y="793.76312"
+         id="tspan2960"
+         style="font-size:24px">Save translations</tspan></text>
+    <text
+       x="22.223356"
+       y="672.54474"
+       id="text2962"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="22.223356"
+         y="672.54474"
+         id="tspan2964"
+         style="font-size:18px">software &amp;</tspan><tspan
+         x="22.223356"
+         y="695.04474"
+         id="tspan3133"
+         style="font-size:18px">documents</tspan></text>
+    <text
+       x="16.162441"
+       y="860.43323"
+       id="text2966"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="16.162441"
+         y="860.43323"
+         id="tspan2968"
+         style="font-size:18px">localised</tspan><tspan
+         x="16.162441"
+         y="882.93323"
+         id="tspan3135"
+         style="font-size:18px">software &amp;</tspan><tspan
+         x="16.162441"
+         y="905.43323"
+         id="tspan3137"
+         style="font-size:18px">documents</tspan></text>
+    <text
+       x="411.8512"
+       y="403.59393"
+       id="text2938"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="411.8512"
+         y="403.59393"
+         id="tspan2940"
+         style="font-size:40px">Zanata</tspan></text>
+    <text
+       x="444.17953"
+       y="500.57895"
+       id="text2942"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="444.17953"
+         y="500.57895"
+         id="tspan2944"
+         style="font-size:40px">Project</tspan></text>
+    <text
+       x="491.86386"
+       y="577.3587"
+       id="text2946"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="491.86386"
+         y="577.3587"
+         id="tspan2949"
+         style="font-size:40px">Version</tspan></text>
+  </g>
+</svg>

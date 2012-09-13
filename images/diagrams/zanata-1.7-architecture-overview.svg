@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.2"
+   width="957.52606"
+   height="543.66492"
+   id="svg3122">
+  <defs
+     id="defs3124">
+    <linearGradient
+       id="linearGradient4931">
+      <stop
+         id="stop4933"
+         style="stop-color:#ff7828;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4939"
+         style="stop-color:#b18563;stop-opacity:1"
+         offset="0.66666669" />
+      <stop
+         id="stop4935"
+         style="stop-color:#63929e;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4897">
+      <stop
+         id="stop4899"
+         style="stop-color:#dcd28c;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4988"
+         style="stop-color:#dcd28c;stop-opacity:1"
+         offset="0.47483221" />
+      <stop
+         id="stop4901"
+         style="stop-color:#63929e;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8,0.8)"
+         id="path4471"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="BlueTriangleHead"
+       style="overflow:visible">
+      <path
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8,0.8)"
+         id="path4775"
+         style="fill:#37abc8;fill-rule:evenodd;stroke:#37abc8;stroke-width:1pt;marker-start:none" />
+    </marker>
+    <linearGradient
+       x1="292.43497"
+       y1="290.91315"
+       x2="450.24496"
+       y2="290.91315"
+       id="linearGradient4903"
+       xlink:href="#linearGradient4897"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="292.43497"
+       y1="290.91315"
+       x2="450.24496"
+       y2="290.91315"
+       id="linearGradient4907"
+       xlink:href="#linearGradient4897"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       x1="292.43497"
+       y1="290.91315"
+       x2="450.24496"
+       y2="290.91315"
+       id="linearGradient4911"
+       xlink:href="#linearGradient4897"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(39.088417,378.66903)" />
+    <linearGradient
+       x1="323.37994"
+       y1="321.53793"
+       x2="548.78033"
+       y2="321.53793"
+       id="linearGradient4937"
+       xlink:href="#linearGradient4931"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-21.881417,69.099211)" />
+    <linearGradient
+       x1="263.13831"
+       y1="303.00839"
+       x2="419.492"
+       y2="303.00839"
+       id="linearGradient4992"
+       xlink:href="#linearGradient4897"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="translate(-50.700807,-114.01168)"
+     id="layer1">
+    <rect
+       width="759.78113"
+       height="337.95193"
+       rx="1.7716535"
+       ry="1.7716535"
+       x="231.37894"
+       y="129.96075"
+       id="rect3207"
+       style="fill:#8c9aa0;fill-opacity:1;stroke:none" />
+    <rect
+       width="724.13593"
+       height="273.86853"
+       rx="7.0866141"
+       ry="7.0866141"
+       x="247.98003"
+       y="172.1817"
+       id="rect2856"
+       style="fill:#380038;fill-opacity:1" />
+    <text
+       x="239.52235"
+       y="156.83403"
+       id="text3209"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="239.52235"
+         y="156.83403"
+         id="tspan3211"
+         style="font-size:24px">JBoss EWP 5.1</tspan></text>
+    <rect
+       width="654.73108"
+       height="140.88118"
+       rx="5.3149605"
+       ry="5.3149605"
+       x="288.3829"
+       y="247.226"
+       id="rect3991"
+       style="fill:#aaffcc;fill-opacity:1;stroke:#000000;stroke-width:1.45629919;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       x="559.34222"
+       y="332.22714"
+       id="text4017"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="559.34222"
+         y="332.22714"
+         id="tspan4019">Seam</tspan></text>
+    <rect
+       width="156.3537"
+       height="49.674862"
+       rx="3.5433071"
+       ry="3.5433071"
+       x="263.13831"
+       y="278.17096"
+       id="rect3993"
+       style="fill:url(#linearGradient4992);fill-opacity:1;stroke:none" />
+    <text
+       x="276.64523"
+       y="312.70123"
+       id="text4021"
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="276.64523"
+         y="312.70123"
+         id="tspan4023"
+         style="font-size:26px;fill:#000000;fill-opacity:1;stroke:none">Hibernate</tspan></text>
+    <rect
+       width="223.94409"
+       height="42.519684"
+       rx="3.5433071"
+       ry="3.5433071"
+       x="302.22668"
+       y="369.37729"
+       id="rect3995"
+       style="fill:url(#linearGradient4937);fill-opacity:1;stroke:none" />
+    <text
+       x="312.5791"
+       y="397.91156"
+       id="text4029"
+       xml:space="preserve"
+       style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="312.5791"
+         y="397.91156"
+         id="tspan4031">JSF + RichFaces</tspan></text>
+    <rect
+       width="141.73228"
+       height="42.519684"
+       rx="3.5433071"
+       ry="3.5433071"
+       x="544.06793"
+       y="369.37729"
+       id="rect3997"
+       style="fill:#37abc8;fill-opacity:1;stroke:none" />
+    <text
+       x="553.90771"
+       y="400.1015"
+       id="text4033"
+       xml:space="preserve"
+       style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="553.90771"
+         y="400.1015"
+         id="tspan4035">GWT RPC</tspan></text>
+    <rect
+       width="223.94409"
+       height="42.519684"
+       rx="3.5433071"
+       ry="3.5433071"
+       x="703.69733"
+       y="369.37729"
+       id="rect3999"
+       style="fill:#37abc8;fill-opacity:1;stroke:none" />
+    <text
+       x="757.47406"
+       y="400.1015"
+       id="text4037"
+       xml:space="preserve"
+       style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="757.47406"
+         y="400.1015"
+         id="tspan4039">REST API</tspan></text>
+    <rect
+       width="65.961731"
+       height="37.459751"
+       rx="1.7716535"
+       ry="1.7716535"
+       x="297.7478"
+       y="503.74374"
+       id="rect4001"
+       style="font-size:18px;fill:#37abc8;fill-opacity:1;stroke:none" />
+    <text
+       x="303.44818"
+       y="528.17401"
+       id="text4041"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="303.44818"
+         y="528.17401"
+         id="tspan4043">email</tspan></text>
+    <rect
+       width="241.04521"
+       height="140.27599"
+       x="417.04892"
+       y="492.61795"
+       id="rect4013"
+       style="fill:#c7dfff;fill-opacity:1;stroke:none" />
+    <text
+       x="471.1731"
+       y="621.28192"
+       id="text4069"
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="471.1731"
+         y="621.28192"
+         id="tspan4071">Browser</tspan></text>
+    <rect
+       width="81.434227"
+       height="58.225471"
+       rx="1.7716535"
+       ry="1.7716535"
+       x="430.8927"
+       y="503.74374"
+       id="rect4003"
+       style="fill:#37abc8;fill-opacity:1;stroke:none" />
+    <text
+       x="471.20264"
+       y="525.32379"
+       id="text4045"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="471.20264"
+         y="525.32379"
+         id="tspan4047">Project</tspan><tspan
+         x="471.20264"
+         y="550.32379"
+         id="tspan4081">pages</tspan></text>
+    <rect
+       width="120.92982"
+       height="59.039814"
+       rx="1.7716535"
+       ry="1.7716535"
+       x="524.54205"
+       y="503.74374"
+       id="rect4005"
+       style="fill:#37abc8;fill-opacity:1;stroke:none" />
+    <text
+       x="586.83917"
+       y="527.35956"
+       id="text4049"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="586.83917"
+         y="527.35956"
+         id="tspan4051">Translation</tspan><tspan
+         x="586.83917"
+         y="552.35956"
+         id="tspan4079">editor</tspan></text>
+    <rect
+       width="289.90582"
+       height="140.27599"
+       x="675.19629"
+       y="492.61795"
+       id="rect4015"
+       style="fill:#c7dfff;fill-opacity:1;stroke:none" />
+    <text
+       x="765.38269"
+       y="622.2663"
+       id="text4065"
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="765.38269"
+         y="622.2663"
+         id="tspan4067">Clients</tspan></text>
+    <rect
+       width="74.105148"
+       height="82.247246"
+       rx="1.7716535"
+       ry="1.7716535"
+       x="687.81763"
+       y="503.74374"
+       id="rect4007"
+       style="fill:#37abc8;fill-opacity:1;stroke:none" />
+    <text
+       x="724.74811"
+       y="525.07733"
+       id="text4053"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="724.74811"
+         y="525.07733"
+         id="tspan4055">Maven</tspan><tspan
+         x="724.74811"
+         y="550.07733"
+         id="tspan4083">client</tspan><tspan
+         x="724.74811"
+         y="575.07733"
+         id="tspan4085">(pom)</tspan></text>
+    <rect
+       width="76.955345"
+       height="82.247246"
+       rx="1.7716535"
+       ry="1.7716535"
+       x="774.13794"
+       y="503.74374"
+       id="rect4009"
+       style="fill:#37abc8;fill-opacity:1;stroke:none" />
+    <text
+       x="812.49353"
+       y="525.38495"
+       id="text4057"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="812.49353"
+         y="525.38495"
+         id="tspan4059">Python</tspan><tspan
+         x="812.49353"
+         y="550.38495"
+         id="tspan4087">client</tspan><tspan
+         x="812.49353"
+         y="575.38495"
+         id="tspan4089">(rpm)</tspan></text>
+    <rect
+       width="87.134613"
+       height="68.811905"
+       rx="1.7716535"
+       ry="1.7716535"
+       x="863.30835"
+       y="503.74374"
+       id="rect4011"
+       style="fill:#a6a6a6;fill-opacity:1;stroke:none" />
+    <text
+       x="905.65405"
+       y="524.5094"
+       id="text4061"
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="905.65405"
+         y="524.5094"
+         id="tspan4063"
+         style="text-align:center;text-anchor:middle">Ant/cli</tspan><tspan
+         x="905.65405"
+         y="549.5094"
+         id="tspan4095"
+         style="text-align:center;text-anchor:middle">client</tspan><tspan
+         x="905.65405"
+         y="564.54193"
+         id="tspan4109"
+         style="font-size:10px;text-align:center;text-anchor:middle">(not supported)</tspan></text>
+    <g
+       transform="translate(32.246298,-28.791338)"
+       id="g4981">
+      <rect
+         width="122.55853"
+         height="138.84535"
+         rx="1.7716535"
+         ry="1.7716535"
+         x="32.679497"
+         y="266.7702"
+         id="rect3989"
+         style="fill:#37abc8;fill-opacity:1;stroke:none" />
+      <text
+         x="41.63726"
+         y="306.67297"
+         id="text4025"
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="41.63726"
+           y="306.67297"
+           id="tspan4027"
+           style="font-size:36px">DBMS</tspan></text>
+      <text
+         x="41.230087"
+         y="354.31201"
+         id="text4073"
+         xml:space="preserve"
+         style="font-size:18px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+           x="41.230087"
+           y="354.31201"
+           id="tspan4077">e.g. MySQL</tspan></text>
+    </g>
+    <text
+       x="875.0105"
+       y="717.62836"
+       id="text4101"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="875.0105"
+         y="717.62836"
+         id="tspan4105" /></text>
+    <path
+       d="m 330.72867,503.12274 0,-76.93486"
+       id="path4323"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       d="m 471.6098,503.12274 0,-76.93486"
+       id="path4821"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       d="m 585.00695,503.12274 0,-76.93486"
+       id="path4823"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       d="m 724.87017,503.12274 0,-76.93486"
+       id="path4825"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       d="m 812.61558,503.12274 0,-76.93486"
+       id="path4827"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       d="m 906.87562,503.12274 0,-76.93486"
+       id="path4829"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       d="m 263.2086,302.72429 -59.82375,0"
+       id="path4979"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <text
+       x="371.41547"
+       y="222.42723"
+       id="text3850"
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"><tspan
+         x="371.41547"
+         y="222.42723"
+         id="tspan3852">Zanata Web Application</tspan></text>
+  </g>
+</svg>
