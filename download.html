@@ -5,6 +5,7 @@
 <title>Welcome To Zanata - the Open Source Document Translation Project</title>
 <link rel="stylesheet" type="text/css" href="css/meyer-reset.css"/>
 <link rel="stylesheet" type="text/css" href="css/zanata.css"/>
+<link rel="stylesheet" href="images/fontello/css/fontello.css">
 <link rel="Shortcut Icon" type="image/ico" href="favicon.ico" />
 
 <script language="javascript" type="text/javascript" src="js/zanata.js"></script>
@@ -23,20 +24,30 @@
             <a href="https://admin.fedoraproject.org/accounts/user/new">Register</a>
         </div><!-- End Header-sign-in -->
       
+     	<div class="quick-link">
+				<a href="http://webchat.freenode.net/?channels=zanata" title="Freenode IRC #zanata" target="_blank"><span class="icon-chat-4 quick_link_icon"></span></a>
+				<a href="http://www.twitter.com/#!/zanatatm" title="Twitter" target="_blank"><span class="icon-twitter-1 quick_link_icon"></span></a>
+				<a href="https://github.com/zanata/" title="GitHub" target="_blank"><span class="icon-github-1 quick_link_icon"></span></a>
+				<a href="http://blog-zanatatm.rhcloud.com" title="Zanata Blog" target="_blank"><span class="icon-article-alt-1 quick_link_icon"></span></a>
+		</div>
+		
         <div id="menu_bar">
             <ul>
-                <li><a href="index.html">Home</a></li>
+            	<li><a href="index.html">Home</a></li>
                 <li><a href="documentation.html">Documentation</a></li>
                 <li><a href="community.html">Community</a></li>
-                <li><a href="developers.html">Contribute</a></li>
+                <li><a href="contribute.html">Contribute</a></li>
                 <li><a href="faq.html">FAQ/Tutorial</a></li>
                 <li><a href="download.html" class="here">Download</a></li>
            </ul>
         </div>
         
-        <div id="breadcrumb">
-	            >> Downloads
-	        </div>
+         <div class="breadcrumb">
+	        	<a href="index.html"><span class="icon-home-1"/></a>
+	        	<span class="icon-right-open"></span>
+	        	<span class="breadcrumb_link">Downloads</span>
+	    </div>
+	    
     </div><!-- End Header -->
 <!-- ----------------------- Call-out Section ----------------------- -->
     
@@ -162,13 +173,55 @@
         </table>
     </div>
     
-    <div id="footer" class="centre">
-            <p>Zanata is an open source project supported by Red Hat.</p><br/>
-            <div id="sponsor">
-                <a href="http://www.redhat.com/"><img src="images/sponsor/RHrgb288.png" alt="Red Hat Logo" /></a>
-            </div>
-            <p style="padding-top:90px">Copyright 2008-11 Red Hat, Inc and others.</p>           
-     </div><!-- End Footer -->
+    <div id="footer">
+     
+     <div class="side_block">
+		<p>Zanata is an open source project supported by Red Hat.</p><br/>
+		<div id="sponsor">
+        	<a href="http://www.redhat.com/"><img src="images/sponsor/RHrgb288.png" alt="Red Hat Logo" /></a><br/>
+			<a href="http://www.redhat.com/" target="_blank">© 2008-12 Red Hat, Inc and others.</a>
+        </div>
+	</div>
+	
+     <div class="section_block">
+		<h4>Zanata</h4>
+		<div class="content">
+			<ul>
+				<li><a href="https://github.com/zanata/zanata/wiki" target="_blank">Wiki</a></li>
+				<li><a href="http://blog-zanatatm.rhcloud.com/" target="_blank">Blog</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="section_block">
+		<h4>Support</h4>
+		<div class="content">
+			<ul>
+				<li><a href="http://webchat.freenode.net/?channels=zanata" target="_blank">IRC Help</a></li>
+				<li><a href="https://bugzilla.redhat.com/enter_bug.cgi?format=guided&amp;product=Zanata"
+					target="_blank">Report a problem</a></li>
+				<li><a href="https://bugzilla.redhat.com/buglist.cgi?product=Zanata&amp;bug_status=__open__"
+					target="_blank">Known issues</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="section_block">
+		<h4>Site Map</h4>
+		<div class="content">
+			<ul>
+				<li><a href="documentation.html">Documentation</a></li>
+				<li><a href="community.html">Community</a></li>
+				<li><a href="contribute.html">Contribute</a></li>
+				<li><a href="faq.html">FAQ/Tutorial</a></li>
+				<li><a href="download.html">Download</a></li>
+			</ul>
+		</div>
+	</div>
+	
+	
+	
+	</div><!-- End Footer -->
     
     </div>
 </div><!-- End Page-wrap -->

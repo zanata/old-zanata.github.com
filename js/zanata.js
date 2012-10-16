@@ -15,5 +15,5 @@ function hideAllDiv(){
 
 function updateDest(dest) {
 	var breadcrumb = document.getElementById('dest');
-	breadcrumb.innerHTML = "  >> " + dest;
+	breadcrumb.innerHTML = "  > " + dest;
 }
