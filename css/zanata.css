@@ -61,9 +61,9 @@ h6{font-size:0.67em;-webkit-margin-before:2.33em;-webkit-margin-after:2.33em;}
 
 
 h2.section-header {
-	font-size:20px;
+	font-size:22px;
 	font-weight: bold;
-	padding-bottom:3px;
+	padding-bottom:4px;
 	border-bottom:1px dotted grey;
 }
 
@@ -375,7 +375,7 @@ a#logo{
 }
 .tab_table td{
 	border: 8px solid #fbfbfb;
-	box-shadow: 0 0 10px #320032 inset;
+	box-shadow: 0 0 6px #320032 inset;
 	padding:20px;
 }
 
@@ -385,8 +385,7 @@ tr.tab{
 
 tr.tab td:hover{
     border: 8px solid #f5f5f5;
-    box-shadow: 0 0 20px #8FA529 inset;
-    -moz-box-shadow:0 0 20px #8FA529 inset;
+    box-shadow: 0 0 6px #8FA529 inset;
 }
 
 tr.tab td{
@@ -394,10 +393,8 @@ tr.tab td{
     font-size:14px;
     font-weight:bold;
     width:85px;
-    padding-top:12px;
-    padding-left:20px;
-    padding-right:0;
-    padding-bottom:0;
+    padding:10px;
+    text-align:center;
 }
 
 tr.tab span{
@@ -444,7 +441,7 @@ div.download:hover {
 }
 
 tr.desc{
-	height:380px;
+	height:400px;
 }
 
 .tab_img{
