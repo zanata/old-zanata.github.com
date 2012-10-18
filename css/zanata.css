@@ -120,8 +120,6 @@ a#logo{
 }
 
 #header-sign-in{
-    border: 1px solid #CCC;
-    border-radius: 5px;
     position: absolute;
     right: 20px;
     margin-top:30px;
@@ -129,7 +127,16 @@ a#logo{
 
 #header-sign-in a{
 	display:inline-block;
-    padding: 12px 10px;
+    padding: 10px 16px;
+    background:lightGrey;
+    color:#595959;
+    border-radius:3px;
+}
+
+#header-sign-in a:hover{
+    background:#320032;
+    color:#FFFFFF;
+    opacity:0.8;
 }
 
 
