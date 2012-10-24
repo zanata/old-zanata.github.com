@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body {
-	font: 12px Arial, Tahoma, Geneva, sans-serif;
+	font: 12px Tahoma,Helvetica,sans-serif;
 	background-color: #F6F6F6;
 }
 
@@ -19,6 +19,7 @@ a, a:link{
 	color:#7c1f5d;
 	font-weight:bold;
 	font-size:13px;
+	padding:3px;
 }
 Ca:hover {color: #A69500;}
 a:hover {color: #8FA529;}
@@ -72,7 +73,7 @@ h2.section-header {
 }
 
 .section-content p{
-	font-family:"Lucida Sans Unicode", "Lucida Grande", Tahoma, Helvetica, Arial, sans-serif;
+	font-family:Tahoma,Helvetica,sans-serif;
 	font-size: 15px;
 }
 
@@ -147,7 +148,7 @@ a#logo{
 	background: #FBFBFB;
 	padding-top: 5px;
 	padding-bottom: 10px;
-	min-height:490px;
+	min-height:520px;
 	border-top:1px dotted grey;
 	border-bottom:1px dotted grey;
 }
@@ -160,8 +161,8 @@ a#logo{
 }
 
 #main-content ul li{
-	font-size:12pt;
-	font-family:"Lucida Sans Unicode","Lucida Grande",Tahoma,Helvetica,Arial,sans-serif;
+	font-family:Tahoma,Helvetica,sans-serif;
+	padding:6px;
 }
 
 .contentTable{
@@ -245,6 +246,7 @@ a#logo{
 	background: white;
 	height: 175px;
 	margin:20px;
+	padding-top:5px;
 }
 
 #footer div.section_block
@@ -263,11 +265,12 @@ a#logo{
 {
 	display:inline-table;
 }
-#footer div.section_block h4
+#footer div.section_block h3
 {
 	margin-top:5px;
 	margin-bottom:0;
 	color:gray;
+	padding-top:0;
 }
 #footer div.content ul
 {
@@ -279,12 +282,12 @@ a#logo{
 
 #footer div.content ul li
 {
-	padding-bottom:5px;
+	padding:5px;
 }
 
 #footer div.content a
 {
-	font-size:11px;
+	font-size:12px;
 	font-weight:bold;
 }
 
@@ -302,7 +305,7 @@ a#logo{
 }
 
 #menu_bar li{
-   border-right:1px solid white;
+   border-right:2px solid white;
    float:left;
    
 }
@@ -315,9 +318,10 @@ a#logo{
     width:110px;
     color: #595959;
     
-    font-size:13px;
+    font-size:14px;
     text-align:center;
-    padding:14px;
+    padding:16px;
+    border-radius:3px;
 }
 
 #menu_bar a:hover, #menu_bar li a.here{
@@ -372,8 +376,8 @@ a#logo{
 }
 
 .breadcrumb #dest{
-	font-size:12px;
-	font-weight:normal;
+	font-size:13px;
+	font-weight:bold;
 }
 
 .tab_table {
@@ -392,7 +396,7 @@ tr.tab{
 
 tr.tab td:hover{
     border: 8px solid #f5f5f5;
-    box-shadow: 0 0 6px #8FA529 inset;
+    box-shadow: 0 0 10px #8FA529 inset;
 }
 
 tr.tab td{
@@ -402,10 +406,6 @@ tr.tab td{
     width:85px;
     padding:10px;
     text-align:center;
-}
-
-tr.tab span{
-    text-shadow: 0 0 8px grey;
 }
 
 .index_table {
