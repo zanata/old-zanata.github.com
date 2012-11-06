@@ -95,8 +95,32 @@
 	                    	<p><b>user-name</b> Database user name. This user name should have full table creation permissions on the database instance.</p>
 	                    	<p><b>password</b> Database password.</p>
 	                    </div>
+                        <div class="internal_section">
+                            <h1>3. Setup an Admin User</h1>
+                            <p>
+                                From version 2.0.x onwards, Zanata will no longer create an admin user by default. Instead, edit the file located at
+                            </p>
+                            <p>&nbsp;</p>
+                            <p class="static_code">
+                                &lt;ZANATA DIR&gt;/server/zanata/conf/zanata.properties
+                            </p>
+                            <p>&nbsp;</p>
+                            <p>
+                                by adding (or uncommenting) the following line:
+                            </p>
+                            <p>&nbsp;</p>
+                            <p class="static_code">
+                                zanata.security.admin.users = admin
+                            </p>
+                            <p>&nbsp;</p>
+                            <p>
+                                Now register a user under the name "admin", and it will automatically have administrator privileges. Any number of users may be
+                                added to this list in a comma-separated format.
+                            </p>
+                            <p>&nbsp;</p>
+                        </div>
 	                    <div class="internal_section">
-	                    	<h1>3. Start Zanata</h1>
+	                    	<h1>4. Start Zanata</h1>
 	                    	<p>
 	                    		Starting zanata is as easy as running the 'start-zanata' executable found at
 	                    	</p>
@@ -114,18 +138,13 @@
 	                    	</p>
 	                    </div>
 	                    <div class="internal_section">
-	                    	<h1>4. Start Using it!</h1>
+	                    	<h1>5. Start Using it!</h1>
 	                    	<p>
 	                    		Zanata should be available at 
 	                    	</p>
 	                    	<p>&nbsp;</p>
 	                    	<p class="static_code">
 	                    		http://localhost:8080/zanata
-	                    	</p>
-	                    	<p>&nbsp;</p>
-	                    	<p>
-	                    		By default, Zanata will have an 'admin' user with password 'admin'. Be sure to change
-	                    		this password when possible (don't say we didn't warn you).
 	                    	</p>
 	                    	<p>&nbsp;</p>
 	                    	<p>
@@ -146,18 +165,11 @@
                 
                 <td class="download_section">
                     <div class="download">
-                    	<a href="http://sourceforge.net/projects/zanata/files/1.6.1/zanata-server-1.6.1.zip/download">
+                    	<a href="http://sourceforge.net/projects/zanata/files/2.0.2/zanata-server-2.0.2.zip/download">
                     		<img src="images/download.jpg" alt="" class="download_img" width="40px"/>
-                    		<div class="download_title">Zanata 1.6.1 Server</div>
+                    		<div class="download_title">Zanata 2.0.2 Server</div>
                     		<div class="download_desc">Zanata Standalone server (based on JBoss 5.1.0)</div>
                     	</a>
-                    </div>
-                    <div class="download">
-                    	<a href="http://sourceforge.net/projects/zanata/files/1.6.1/zanata.war/download">
-	                    	<img src="images/download.jpg" alt="" class="download_img" width="40px"/>
-	                    	<div class="download_title">Zanata 1.6.1 web archive</div>
-	                    	<div class="download_desc">Zanata .war deployable file. (Works best on JBoss 5.1.0)</div>
-	                    </a>
                     </div>
                     <br/>
                     <br/>
