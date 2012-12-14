@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1067.443"
+   height="591.16565"
+   id="svg3122"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="zanata-2.0-repositories-overview.svg">
+  <defs
+     id="defs3124">
+    <linearGradient
+       id="linearGradient4931">
+      <stop
+         style="stop-color:#ff7828;stop-opacity:1;"
+         offset="0"
+         id="stop4933" />
+      <stop
+         id="stop4939"
+         offset="0.66666669"
+         style="stop-color:#b18563;stop-opacity:1;" />
+      <stop
+         style="stop-color:#63929e;stop-opacity:1;"
+         offset="1"
+         id="stop4935" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4897">
+      <stop
+         style="stop-color:#dcd28c;stop-opacity:1;"
+         offset="0"
+         id="stop4899" />
+      <stop
+         id="stop4988"
+         offset="0.47483221"
+         style="stop-color:#dcd28c;stop-opacity:1;" />
+      <stop
+         style="stop-color:#63929e;stop-opacity:1;"
+         offset="1"
+         id="stop4901" />
+    </linearGradient>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4471"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="BlueTriangleHead"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         transform="scale(0.8,0.8)"
+         style="fill:#37abc8;fill-rule:evenodd;stroke:#37abc8;stroke-width:1pt;marker-start:none"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         id="path4775" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 372.04724 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1052.3622 : 372.04724 : 1"
+       inkscape:persp3d-origin="526.18109 : 248.03149 : 1"
+       id="perspective3131" />
+    <inkscape:perspective
+       id="perspective3162"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3184"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4897"
+       id="linearGradient4903"
+       x1="292.43497"
+       y1="290.91315"
+       x2="450.24496"
+       y2="290.91315"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4897"
+       id="linearGradient4907"
+       gradientUnits="userSpaceOnUse"
+       x1="292.43497"
+       y1="290.91315"
+       x2="450.24496"
+       y2="290.91315" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4897"
+       id="linearGradient4911"
+       gradientUnits="userSpaceOnUse"
+       x1="292.43497"
+       y1="290.91315"
+       x2="450.24496"
+       y2="290.91315"
+       gradientTransform="translate(39.088417,378.66903)" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-units="mm"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.94717752"
+     inkscape:cx="462.93756"
+     inkscape:cy="298.15673"
+     inkscape:current-layer="layer1"
+     id="namedview3126"
+     showgrid="false"
+     inkscape:window-width="1890"
+     inkscape:window-height="1144"
+     inkscape:window-x="30"
+     inkscape:window-y="288"
+     inkscape:window-maximized="1"
+     inkscape:connector-spacing="10" />
+  <metadata
+     id="metadata3128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-264.77849,-131.55328)">
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="875.0105"
+       y="717.62836"
+       id="text4101"><tspan
+         sodipodi:role="line"
+         x="875.0105"
+         y="717.62836"
+         id="tspan4105" /></text>
+    <g
+       id="g3517">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none"
+         id="rect3803"
+         width="686.93311"
+         height="51.838749"
+         x="264.7785"
+         y="131.55328"
+         ry="1.7716537"
+         rx="1.7716537" />
+      <text
+         xml:space="preserve"
+         style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="522.02454"
+         y="163.89648"
+         id="text3805"><tspan
+           id="tspan3809"
+           sodipodi:role="line"
+           x="522.02454"
+           y="163.89648">zanata-parent</tspan></text>
+    </g>
+    <path
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
+       d="m 295.61281,383.37303 0,-184.28862"
+       id="path3892"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g3441"
+       transform="translate(-307.3155,126.90761)">
+      <rect
+         style="fill:#cccccc;fill-opacity:1;stroke:none"
+         id="rect3837"
+         width="234.0085"
+         height="47.615654"
+         x="572.09399"
+         y="250.959"
+         ry="1.7716537"
+         rx="1.7716537" />
+      <text
+         xml:space="preserve"
+         style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="584.20959"
+         y="283.71066"
+         id="text3817"><tspan
+           id="tspan3819"
+           sodipodi:role="line"
+           x="584.20959"
+           y="283.71066">zanata-common</tspan></text>
+    </g>
+    <path
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
+       d="m 830.2186,463.50165 0,-35.4253"
+       id="path3469"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4352"
+       transform="translate(-35.416761,263.46989)"
+       inkscape:connector-avoid="true">
+      <rect
+         rx="1.7716537"
+         ry="1.7716537"
+         y="191.19533"
+         x="798.85443"
+         height="47.615654"
+         width="140.04512"
+         id="rect3835"
+         style="fill:#cccccc;fill-opacity:1;stroke:none" />
+      <text
+         id="text3829"
+         y="222.17599"
+         x="821.74567"
+         style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         xml:space="preserve"><tspan
+           y="222.17599"
+           x="821.74567"
+           sodipodi:role="line"
+           id="tspan3831">zanataj</tspan></text>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3884"
+       d="m 930.07047,549.13034 0,-350.04424"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
+       d="m 482.46896,246.23644 0,-47.15029"
+       id="path3888"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3894"
+       d="m 732.97681,315.08408 0,-115.99828"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <g
+       id="g4243"
+       transform="translate(143.58449,-24.282668)">
+      <g
+         id="g4238">
+        <rect
+           style="fill:#cccccc;fill-opacity:1;stroke:none"
+           id="rect3932"
+           width="306.85651"
+           height="102.5156"
+           x="881.78046"
+           y="344.69019"
+           ry="1.7716537"
+           rx="1.7716538" />
+        <text
+           xml:space="preserve"
+           style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="899.1637"
+           y="375.67087"
+           id="text3934"><tspan
+             id="tspan3936"
+             sodipodi:role="line"
+             x="899.1637"
+             y="375.67087">zanata-python-client</tspan></text>
+      </g>
+      <g
+         transform="translate(0.26644897,0)"
+         id="g4218">
+        <rect
+           y="394.29053"
+           x="954.35126"
+           height="40"
+           width="161.18201"
+           id="rect4009"
+           style="fill:#37abc8;fill-opacity:1;stroke:none"
+           rx="1.7716535"
+           ry="1.7716537" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="1034.205"
+           y="419.80811"
+           id="text4057"><tspan
+             sodipodi:role="line"
+             x="1034.205"
+             y="419.80811"
+             id="tspan4089">Python Client</tspan></text>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3451"
+       d="m 665.00534,326.80944 -75.79224,0"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
+       d="m 617.94956,401.769 -104.73646,0"
+       id="path3453"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4370"
+       transform="translate(247.94555,128.57548)"
+       inkscape:connector-avoid="true">
+      <g
+         transform="translate(5.2788415,-10.557683)"
+         id="g4285">
+        <rect
+           rx="1.7716537"
+           ry="1.7716537"
+           y="190.13956"
+           x="357.01538"
+           height="105.68291"
+           width="294.18729"
+           id="rect3841"
+           style="fill:#cccccc;fill-opacity:1;stroke:none" />
+        <text
+           id="text3825"
+           y="223.64024"
+           x="419.31702"
+           style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="223.64024"
+             x="419.31702"
+             sodipodi:role="line"
+             id="tspan3827">zanata-client</tspan></text>
+      </g>
+      <g
+         transform="translate(5.2788415,-10.557683)"
+         id="g4185">
+        <rect
+           style="fill:#37abc8;fill-opacity:1;stroke:none"
+           id="rect4007"
+           width="160.26401"
+           height="40"
+           x="368.97562"
+           y="239.39354"
+           rx="1.7716534"
+           ry="1.7716537" />
+        <text
+           id="text4053"
+           y="264.91113"
+           x="448.98553"
+           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="264.91113"
+             x="448.98553"
+             sodipodi:role="line"
+             id="tspan4085">Maven Plugin</tspan></text>
+      </g>
+      <g
+         transform="translate(5.2788415,-10.97405)"
+         id="g4190">
+        <rect
+           ry="1.7716533"
+           rx="1.7716535"
+           y="239.80991"
+           x="533.80573"
+           height="40"
+           width="104.209"
+           id="rect3978"
+           style="fill:#37abc8;fill-opacity:1;stroke:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="586.44244"
+           y="265.09799"
+           id="text3980"><tspan
+             id="tspan3986"
+             sodipodi:role="line"
+             x="586.44244"
+             y="265.09799">ZanataJ</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g4339"
+       transform="translate(265.45914,58.484741)"
+       inkscape:connector-avoid="true">
+      <g
+         transform="translate(-136,0.94433116)"
+         id="g4322">
+        <rect
+           style="fill:#cccccc;fill-opacity:1;stroke:none"
+           id="rect3833"
+           width="179.10855"
+           height="105.683"
+           x="266.2193"
+           y="178.63754"
+           ry="1.7716537"
+           rx="1.7716537" />
+        <text
+           xml:space="preserve"
+           style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="287.69495"
+           y="212.78563"
+           id="text3813"><tspan
+             id="tspan3815"
+             sodipodi:role="line"
+             x="287.69495"
+             y="212.78563">zanata-api</tspan></text>
+      </g>
+      <g
+         transform="translate(11.677956,-4.7159014)"
+         id="g4314">
+        <rect
+           style="fill:#37abc8;fill-opacity:1;stroke:none"
+           id="rect3999"
+           width="124.166"
+           height="40"
+           x="146.01262"
+           y="233.55176"
+           ry="3.5433071"
+           rx="3.5433071" />
+        <text
+           id="text4037"
+           y="260.74008"
+           x="158.85344"
+           style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             style="font-size:22px"
+             y="260.74008"
+             x="158.85344"
+             id="tspan4039"
+             sodipodi:role="line">REST API</tspan></text>
+      </g>
+    </g>
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3455"
+       d="m 480.64775,543.01888 0,-102.16178"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3459"
+       d="m 720.30716,544.07465 0,-115.77523"
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+    <path
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
+       d="m 540.82655,548.28241 0,-189.77523"
+       id="path3512"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g4263"
+       transform="translate(71.637939,171.40054)"
+       inkscape:connector-avoid="true">
+      <g
+         id="g4253">
+        <rect
+           rx="1.7716538"
+           ry="1.7716537"
+           y="368.56439"
+           x="383.17886"
+           height="182.754"
+           width="496.89481"
+           id="rect3839"
+           style="fill:#cccccc;fill-opacity:1;stroke:none" />
+        <text
+           xml:space="preserve"
+           style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="588.1004"
+           y="401.31607"
+           id="text3821"><tspan
+             id="tspan3823"
+             sodipodi:role="line"
+             x="588.1004"
+             y="401.31607">zanata</tspan></text>
+      </g>
+      <g
+         transform="translate(4.84839,6)"
+         id="g4213">
+        <rect
+           y="489.36377"
+           x="659.39417"
+           height="40"
+           width="204.76601"
+           id="rect4005"
+           style="fill:#37abc8;fill-opacity:1;stroke:none"
+           rx="1.7716535"
+           ry="1.7716535" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="761.81622"
+           y="516.81982"
+           id="text4049"><tspan
+             sodipodi:role="line"
+             x="761.81622"
+             y="516.81982"
+             id="tspan4079">Translation Editor</tspan></text>
+      </g>
+      <g
+         transform="translate(-1.0960985,5.3693848)"
+         id="g4208">
+        <rect
+           style="fill:#37abc8;fill-opacity:1;stroke:none"
+           id="rect4003"
+           width="160.68401"
+           height="40"
+           x="492.54996"
+           y="489.99438"
+           rx="1.7716535"
+           ry="1.7716535" />
+        <text
+           id="text4045"
+           y="515.51196"
+           x="572.40369"
+           style="font-size:20px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="515.51196"
+             x="572.40369"
+             sodipodi:role="line"
+             id="tspan4081">Project Pages</tspan></text>
+      </g>
+      <g
+         transform="translate(-15.031005,6.9502563)"
+         id="g4203">
+        <rect
+           y="488.41351"
+           x="412.23218"
+           height="40"
+           width="82.148003"
+           id="rect4001"
+           style="font-size:18px;fill:#37abc8;fill-opacity:1;stroke:none"
+           rx="1.7716537"
+           ry="1.7716535" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           x="426.12845"
+           y="515.86957"
+           id="text4041"><tspan
+             sodipodi:role="line"
+             id="tspan4043"
+             x="426.12845"
+             y="515.86957">email</tspan></text>
+      </g>
+      <g
+         id="g4258">
+        <rect
+           style="fill:#380038;fill-opacity:1"
+           id="rect2856"
+           width="471.80731"
+           height="61.659103"
+           x="397.20117"
+           y="422.42896"
+           rx="7.0866151"
+           ry="7.0866141" />
+        <text
+           id="text3850"
+           y="462.08664"
+           x="442.38608"
+           style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+           xml:space="preserve"><tspan
+             y="462.08664"
+             x="442.38608"
+             id="tspan3852"
+             sodipodi:role="line"
+             style="font-size:32px">Zanata Web Application</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
