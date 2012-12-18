@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1402.3949"
+   height="742.55829"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="zanata-2.0-webtrans-views-editor.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.86144643"
+     inkscape:cx="750.72166"
+     inkscape:cy="394.48675"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1890"
+     inkscape:window-height="1144"
+     inkscape:window-x="30"
+     inkscape:window-y="288"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2908"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2982"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective3980" />
+    <inkscape:perspective
+       id="perspective4223"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(341.26993,-222.31383)">
+    <image
+       y="283.6347"
+       x="-327.28778"
+       id="image4225"
+       height="663"
+       width="1362"
+       xlink:href="file:///home/damason/Documents/zanata/zanata-diagrams/screenshot-editor.png" />
+    <rect
+       ry="2"
+       rx="2"
+       y="319.38196"
+       x="-339.76993"
+       height="643.99017"
+       width="1399.3949"
+       id="rect3004"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3778"
+       width="1051.941"
+       height="612.85876"
+       x="-330.34241"
+       y="341.56668"
+       rx="2"
+       ry="2" />
+    <rect
+       ry="2"
+       rx="0"
+       y="335.97369"
+       x="728.00208"
+       height="619.75354"
+       width="319.19318"
+       id="rect3780"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       id="path3782"
+       d="m 30.40861,249.31743 78.597,69.72071"
+       style="fill:#cc00ff;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 226.11471,270.73 69.6382,70.93989"
+       id="path3784" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path3786"
+       d="m 560.3195,281.28173 176.56406,54.80836"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       id="text3788"
+       y="240.5482"
+       x="-28.794155"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="240.5482"
+         x="-28.794155"
+         id="tspan3790"
+         sodipodi:role="line">AppView</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="119.55528"
+       y="264.92584"
+       id="text3806"><tspan
+         sodipodi:role="line"
+         id="tspan3808"
+         x="119.55528"
+         y="264.92584">TranslationView</tspan></text>
+    <text
+       id="text3810"
+       y="273.57959"
+       x="458.86963"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="273.57959"
+         x="458.86963"
+         id="tspan3812"
+         sodipodi:role="line">SideMenuView</tspan></text>
+    <rect
+       ry="2"
+       rx="2"
+       y="801.27069"
+       x="-321.39569"
+       height="147.35063"
+       width="607.68011"
+       id="rect4337"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <rect
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4339"
+       width="420.52933"
+       height="143.24651"
+       x="294.23178"
+       y="802.09149"
+       rx="2"
+       ry="2" />
+    <rect
+       ry="2"
+       rx="2"
+       y="351.90082"
+       x="-317.2915"
+       height="442.40326"
+       width="1033.6943"
+       id="rect4341"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       id="text4343"
+       y="595.36639"
+       x="55.273548"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="595.36639"
+         x="55.273548"
+         id="tspan4345"
+         sodipodi:role="line">TranslationEditorView</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="-165.59128"
+       y="852.17017"
+       id="text4351"><tspan
+         sodipodi:role="line"
+         id="tspan4353"
+         x="-165.59128"
+         y="852.17017">TransMemoryView</tspan></text>
+    <text
+       id="text4357"
+       y="902.08624"
+       x="416.96777"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="902.08624"
+         x="416.96777"
+         id="tspan4359"
+         sodipodi:role="line">GlossaryView</tspan></text>
+    <rect
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect4421"
+       width="290.98889"
+       height="605.40094"
+       x="747.51715"
+       y="341.77789"
+       rx="0"
+       ry="2" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       x="823.10168"
+       y="273.57959"
+       id="text4423"><tspan
+         sodipodi:role="line"
+         id="tspan4425"
+         x="823.10168"
+         y="273.57959">EditorOptionsView</tspan></text>
+    <rect
+       ry="2"
+       rx="0"
+       y="352.05042"
+       x="756.98224"
+       height="453.53027"
+       width="270.35556"
+       id="rect4427"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       id="text4429"
+       y="273.57959"
+       x="655.38904"
+       style="font-size:24px;font-style:normal;font-weight:normal;fill:#cc00ff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       xml:space="preserve"><tspan
+         y="273.57959"
+         x="655.38904"
+         id="tspan4431"
+         sodipodi:role="line">OptionsView</tspan></text>
+    <path
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 733.26635,280.47462 41.33056,61.03505"
+       id="path4433"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       id="path4435"
+       d="m 930.33394,279.89478 56.54962,72.48552"
+       style="fill:none;stroke:#cc00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
