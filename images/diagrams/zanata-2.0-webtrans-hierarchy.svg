@@ -32,8 +32,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2427734"
-     inkscape:cx="376.94521"
+     inkscape:zoom="1.1032041"
+     inkscape:cx="262.27921"
      inkscape:cy="280.72411"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -258,12 +258,12 @@
            sodipodi:role="line">WorkspaceUsers*</tspan></text>
     </g>
     <g
-       id="g4971">
+       id="g4129">
       <rect
          style="fill:#e6e6e6;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          id="rect4745"
-         width="110.43546"
-         height="42.036125"
+         width="114.9677"
+         height="42.036133"
          x="377.034"
          y="397.11624"
          rx="5"
@@ -271,13 +271,13 @@
       <text
          xml:space="preserve"
          style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         x="393.60916"
+         x="390.66043"
          y="423.65189"
          id="text4747"><tspan
            sodipodi:role="line"
            id="tspan4749"
-           x="393.60916"
-           y="423.65189">Option*</tspan></text>
+           x="390.66043"
+           y="423.65189">Options*</tspan></text>
     </g>
     <g
        id="g4887">
