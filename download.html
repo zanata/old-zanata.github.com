@@ -96,7 +96,7 @@
 	                    	<p><b>password</b> Database password.</p>
 	                    </div>
                         <div class="internal_section">
-                            <h1>3. Setup an Admin User</h1>
+                            <h1>3. Configure Zanata</h1>
                             <p>
                                 From version 2.0.x onwards, Zanata will no longer create an admin user by default. Instead, edit the file located at
                             </p>
@@ -116,6 +116,32 @@
                             <p>
                                 Now register a user under the name "admin", and it will automatically have administrator privileges. Any number of users may be
                                 added to this list in a comma-separated format.
+                            </p>
+                            <p>&nbsp;</p>
+                            <p>
+                                In the same file, configure other properties to your particular setup. The following properties should be configured
+                                in order for Zanata to run properly:
+                                <br>
+                                <br>
+                                <p class="static_code">
+                                    zanata.email.default.from
+                                </p>
+                                <br>
+                                This is the default email address that will appear as sender on Zanata emails.<br>
+                                <br>
+                                The following properties relate to the SMTP email server that Zanata uses to send emails. It defaults to a locally installed server
+                                using port 25. If a particular property does not apply to the email server being used, it may be commented out by placing a '#'
+                                character at the beginning of the property name.
+                                <br>
+                                <br>
+                                <p class="static_code">
+                                    zanata.smtp.host<br>
+                                    zanata.smtp.port<br>
+                                    zanata.smtp.username<br>
+                                    zanata.smtp.password<br>
+                                    zanata.smtp.tls<br>
+                                    zanata.smtp.ssl<br>
+                                </p>
                             </p>
                             <p>&nbsp;</p>
                         </div>
