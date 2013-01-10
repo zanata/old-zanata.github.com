@@ -131,9 +131,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.59453895"
-     inkscape:cx="187.22169"
-     inkscape:cy="392.55371"
+     inkscape:zoom="0.84080505"
+     inkscape:cx="401.40126"
+     inkscape:cy="369.62035"
      inkscape:current-layer="layer1"
      id="namedview3126"
      showgrid="false"
@@ -469,9 +469,9 @@
        id="path3512"
        sodipodi:nodetypes="cc" />
     <g
-       id="g4891">
+       id="g4975">
       <g
-         id="g4886">
+         id="g4970">
         <rect
            rx="1.7716538"
            ry="1.7716537"
@@ -484,13 +484,13 @@
         <text
            xml:space="preserve"
            style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-           x="472.82742"
+           x="417.31082"
            y="670.71661"
            id="text3821"><tspan
              id="tspan3823"
              sodipodi:role="line"
-             x="472.82742"
-             y="670.71661">zanata</tspan></text>
+             x="417.31082"
+             y="670.71661">zanata (server)</tspan></text>
       </g>
       <g
          transform="translate(-111.90323,275.40054)"
