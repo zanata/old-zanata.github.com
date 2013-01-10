@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1067.443"
-   height="591.16565"
+   width="850.14374"
+   height="785.16559"
    id="svg3122"
    version="1.1"
    inkscape:version="0.47 r22583"
@@ -131,9 +131,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94717752"
-     inkscape:cx="462.93756"
-     inkscape:cy="298.15673"
+     inkscape:zoom="0.59453895"
+     inkscape:cx="187.22169"
+     inkscape:cy="392.55371"
      inkscape:current-layer="layer1"
      id="namedview3126"
      showgrid="false"
@@ -159,7 +159,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-264.77849,-131.55328)">
+     transform="translate(-264.7785,-35.553284)">
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -171,35 +171,41 @@
          y="717.62836"
          id="tspan4105" /></text>
     <g
-       id="g3517">
+       id="g4916">
       <rect
          style="fill:#cccccc;fill-opacity:1;stroke:none"
          id="rect3803"
-         width="686.93311"
-         height="51.838749"
+         width="503.1496"
+         height="51.838745"
          x="264.7785"
-         y="131.55328"
+         y="35.553284"
          ry="1.7716537"
          rx="1.7716537" />
       <text
+         transform="scale(0.99955491,1.0004453)"
          xml:space="preserve"
-         style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         x="522.02454"
-         y="163.89648"
+         style="font-size:25.98842812px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+         x="424.84967"
+         y="67.866264"
          id="text3805"><tspan
            id="tspan3809"
            sodipodi:role="line"
-           x="522.02454"
-           y="163.89648">zanata-parent</tspan></text>
+           x="424.84967"
+           y="67.866264">zanata-parent</tspan></text>
     </g>
     <path
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
-       d="m 295.61281,383.37303 0,-184.28862"
+       d="m 573.61281,327.37303 0,-224.28862"
        id="path3892"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
+       d="m 435.44366,325.02626 0,-54.58596"
+       id="path4339"
        sodipodi:nodetypes="cc" />
     <g
        id="g3441"
-       transform="translate(-307.3155,126.90761)">
+       transform="translate(-169.3155,70.90761)">
       <rect
          style="fill:#cccccc;fill-opacity:1;stroke:none"
          id="rect3837"
@@ -222,12 +228,12 @@
     </g>
     <path
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
-       d="m 830.2186,463.50165 0,-35.4253"
+       d="m 697.46023,571.50165 0,-35.4253"
        id="path3469"
        sodipodi:nodetypes="cc" />
     <g
        id="g4352"
-       transform="translate(-35.416761,263.46989)"
+       transform="translate(-171.41676,371.46989)"
        inkscape:connector-avoid="true">
       <rect
          rx="1.7716537"
@@ -252,21 +258,21 @@
     <path
        sodipodi:nodetypes="cc"
        id="path3884"
-       d="m 930.07047,549.13034 0,-350.04424"
+       d="m 296.07047,658.29628 0,-555.92378"
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
     <path
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
-       d="m 482.46896,246.23644 0,-47.15029"
+       d="m 430.46896,150.23644 0,-47.15029"
        id="path3888"
        sodipodi:nodetypes="cc" />
     <path
        sodipodi:nodetypes="cc"
        id="path3894"
-       d="m 732.97681,315.08408 0,-115.99828"
+       d="m 720.97681,423.09101 0,-318.40078"
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
     <g
        id="g4243"
-       transform="translate(143.58449,-24.282668)">
+       transform="translate(-73.71474,71.467168)">
       <g
          id="g4238">
         <rect
@@ -314,18 +320,18 @@
       </g>
     </g>
     <path
-       sodipodi:nodetypes="cc"
+       sodipodi:nodetypes="cccc"
        id="path3451"
-       d="m 665.00534,326.80944 -75.79224,0"
-       style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
+       d="m 663.52365,419.13207 0,-121.49818 -158.9954,0 0,-28"
+       style="fill:none;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
     <path
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
-       d="m 617.94956,401.769 -104.73646,0"
+       d="M 559.94956,439.769 558.6546,382.58183"
        id="path3453"
        sodipodi:nodetypes="cc" />
     <g
        id="g4370"
-       transform="translate(247.94555,128.57548)"
+       transform="translate(111.94555,236.57548)"
        inkscape:connector-avoid="true">
       <g
          transform="translate(5.2788415,-10.557683)"
@@ -398,34 +404,32 @@
       </g>
     </g>
     <g
-       id="g4339"
-       transform="translate(265.45914,58.484741)"
-       inkscape:connector-avoid="true">
+       id="g4937"
+       transform="translate(3.8109543,0)">
       <g
-         transform="translate(-136,0.94433116)"
-         id="g4322">
+         id="g4932">
         <rect
            style="fill:#cccccc;fill-opacity:1;stroke:none"
            id="rect3833"
-           width="179.10855"
-           height="105.683"
-           x="266.2193"
-           y="178.63754"
+           width="186.30862"
+           height="105.68301"
+           x="338.47839"
+           y="150.06662"
            ry="1.7716537"
            rx="1.7716537" />
         <text
            xml:space="preserve"
            style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-           x="287.69495"
-           y="212.78563"
+           x="363.55408"
+           y="184.21471"
            id="text3813"><tspan
              id="tspan3815"
              sodipodi:role="line"
-             x="287.69495"
-             y="212.78563">zanata-api</tspan></text>
+             x="363.55408"
+             y="184.21471">zanata-api</tspan></text>
       </g>
       <g
-         transform="translate(11.677956,-4.7159014)"
+         transform="translate(223.53709,-34.23116)"
          id="g4314">
         <rect
            style="fill:#37abc8;fill-opacity:1;stroke:none"
@@ -452,46 +456,44 @@
     <path
        sodipodi:nodetypes="cc"
        id="path3455"
-       d="m 480.64775,543.01888 0,-102.16178"
+       d="m 437.44366,653.01888 0,-269.51835"
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
     <path
        sodipodi:nodetypes="cc"
        id="path3459"
-       d="m 720.30716,544.07465 0,-115.77523"
+       d="m 508.30716,652.07465 0,-115.77523"
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)" />
     <path
        style="fill:#00ccff;stroke:#37abc8;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#BlueTriangleHead)"
-       d="m 540.82655,548.28241 0,-189.77523"
+       d="m 366.3591,654.28241 0,-384.60884"
        id="path3512"
        sodipodi:nodetypes="cc" />
     <g
-       id="g4263"
-       transform="translate(71.637939,171.40054)"
-       inkscape:connector-avoid="true">
+       id="g4891">
       <g
-         id="g4253">
+         id="g4886">
         <rect
            rx="1.7716538"
            ry="1.7716537"
-           y="368.56439"
-           x="383.17886"
-           height="182.754"
-           width="496.89481"
+           y="637.9649"
+           x="264.7785"
+           height="182.75397"
+           width="503.1496"
            id="rect3839"
            style="fill:#cccccc;fill-opacity:1;stroke:none" />
         <text
            xml:space="preserve"
            style="font-size:26px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-           x="588.1004"
-           y="401.31607"
+           x="472.82742"
+           y="670.71661"
            id="text3821"><tspan
              id="tspan3823"
              sodipodi:role="line"
-             x="588.1004"
-             y="401.31607">zanata</tspan></text>
+             x="472.82742"
+             y="670.71661">zanata</tspan></text>
       </g>
       <g
-         transform="translate(4.84839,6)"
+         transform="translate(-111.90323,275.40054)"
          id="g4213">
         <rect
            y="489.36377"
@@ -514,7 +516,7 @@
              id="tspan4079">Translation Editor</tspan></text>
       </g>
       <g
-         transform="translate(-1.0960985,5.3693848)"
+         transform="translate(-117.84767,274.76992)"
          id="g4208">
         <rect
            style="fill:#37abc8;fill-opacity:1;stroke:none"
@@ -537,7 +539,7 @@
              id="tspan4081">Project Pages</tspan></text>
       </g>
       <g
-         transform="translate(-15.031005,6.9502563)"
+         transform="translate(-131.78254,276.3508)"
          id="g4203">
         <rect
            y="488.41351"
@@ -560,6 +562,7 @@
              y="515.86957">email</tspan></text>
       </g>
       <g
+         transform="translate(-116.75153,269.40054)"
          id="g4258">
         <rect
            style="fill:#380038;fill-opacity:1"
