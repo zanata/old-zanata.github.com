@@ -90,33 +90,36 @@
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="45.865158"
+       x="37.865158"
        y="245.29633"
        id="text4753"><tspan
          sodipodi:role="line"
          id="tspan4755"
-         x="45.865158"
-         y="245.29633">zanataj script</tspan></text>
+         x="37.865158"
+         y="245.29633"
+         style="font-size:24px">zanataj script</tspan></text>
     <text
        id="text4757"
-       y="304.86383"
-       x="46.879143"
+       y="310.86383"
+       x="40.879143"
        style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
        xml:space="preserve"><tspan
-         y="304.86383"
-         x="46.879143"
+         y="310.86383"
+         x="40.879143"
          id="tspan4759"
-         sodipodi:role="line">ZanataClient</tspan></text>
+         sodipodi:role="line"
+         style="font-size:24px">ZanataClient</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       x="94.948929"
-       y="489.48743"
+       x="96.948929"
+       y="495.48743"
        id="text4761"><tspan
          sodipodi:role="line"
          id="tspan4763"
-         x="94.948929"
-         y="489.48743">ArgsUtil</tspan></text>
+         x="96.948929"
+         y="495.48743"
+         style="font-size:24px">ArgsUtil</tspan></text>
     <rect
        style="fill:#37c837;fill-rule:evenodd;stroke:none"
        id="rect4235"
