@@ -102,15 +102,16 @@
                             </p>
                             <p>&nbsp;</p>
                             <p class="static_code">
-                                &lt;ZANATA DIR&gt;/server/zanata/conf/zanata.properties
+                                &lt;ZANATA_SERVER&gt;/standalone/configuration/standalone.xml
                             </p>
                             <p>&nbsp;</p>
                             <p>
-                                by adding (or uncommenting) the following line:
+                                by looking for the following line, and replacing the 'value' by a list of users that should have administrator priviledges
+                                when joining the system.
                             </p>
                             <p>&nbsp;</p>
                             <p class="static_code">
-                                zanata.security.admin.users = admin
+                                <simple name="java:global/zanata/security/admin-users" value="admin"/>
                             </p>
                             <p>&nbsp;</p>
                             <p>
@@ -119,28 +120,27 @@
                             </p>
                             <p>&nbsp;</p>
                             <p>
-                                In the same file, configure other properties to your particular setup. The following properties should be configured
-                                in order for Zanata to run properly:
+                                In the same file, configure other properties to your particular setup by adding more lines if necessary.
+                                The following properties should be configured in order for Zanata to run properly:
                                 <br>
                                 <br>
                                 <p class="static_code">
-                                    zanata.email.default.from
+                                    java:global/zanata/email/default-from-address
                                 </p>
                                 <br>
                                 This is the default email address that will appear as sender on Zanata emails.<br>
                                 <br>
                                 The following properties relate to the SMTP email server that Zanata uses to send emails. It defaults to a locally installed server
-                                using port 25. If a particular property does not apply to the email server being used, it may be commented out by placing a '#'
-                                character at the beginning of the property name.
+                                using port 25. If a particular property does not apply to the email server being used, it may be commented out or removed altogether.
                                 <br>
                                 <br>
                                 <p class="static_code">
-                                    zanata.smtp.host<br>
-                                    zanata.smtp.port<br>
-                                    zanata.smtp.username<br>
-                                    zanata.smtp.password<br>
-                                    zanata.smtp.tls<br>
-                                    zanata.smtp.ssl<br>
+                                    java:global/zanata/smtp/host<br>
+                                    java:global/zanata/smtp/port<br>
+                                    java:global/zanata/smtp/username<br>
+                                    java:global/zanata/smtp/password<br>
+                                    java:global/zanata/smtp/tls<br>
+                                    java:global/zanata/smtp/ssl<br>
                                 </p>
                             </p>
                             <p>&nbsp;</p>
@@ -180,8 +180,6 @@
 	                    	<p style="font-size:0.9em">
 	                    		<b>A few things to note:</b>
 					<br>
-					JBoss AS 5 doesn't like being placed on a path with spaces.</li>
-					<br>
 					Zanata requires an email (SMTP) server to perform certain notifications.
                     <br>
                     Make sure you are using JDK version 6 or higher.
@@ -193,10 +191,10 @@
                 
                 <td class="download_section">
                     <div class="download">
-                    	<a href="http://sourceforge.net/projects/zanata/files/2.x/zanata-server-2.3.2.zip/download">
+                    	<a href="http://sourceforge.net/projects/zanata/files/3.x/zanata-server-3.0.2.zip/download">
                     		<img src="images/download.jpg" alt="" class="download_img" width="40px"/>
-                    		<div class="download_title">Zanata 2.3.2 Server</div>
-                    		<div class="download_desc">Zanata Standalone server (based on JBoss AS 5.1.0)</div>
+                    		<div class="download_title">Zanata 3.0.2 Server</div>
+                    		<div class="download_desc">Zanata Standalone server (based on JBoss AS 7)</div>
                     	</a>
                     </div>
                     <br/>
@@ -219,7 +217,7 @@
 		<p>Zanata is an open source project supported by Red Hat.</p><br/>
 		<div id="sponsor">
         	<a href="http://www.redhat.com/"><img src="images/sponsor/RHrgb288.png" alt="Red Hat Logo" /></a><br/>
-			<a href="http://www.redhat.com/" target="_blank">© 2008-12 Red Hat, Inc and others.</a>
+			<a href="http://www.redhat.com/" target="_blank">© 2008-13 Red Hat, Inc and others.</a>
         </div>
 	</div>
 	
